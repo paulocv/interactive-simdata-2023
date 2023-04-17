@@ -1,18 +1,18 @@
 # Simulation situation report
 
-* Elapsed days: 147
+* Elapsed days: 154
 
-* Symptomatic infections: 64410 (12.81%)
+* Symptomatic infections: 65695 (13.07%)
 
-* Total hospitalizations: 13822 (2.75%)
+* Total hospitalizations: 14248 (2.83%)
 
 * Reported symptoms: 
 
-	* Cough: 9675 (1.92%)
+	* Cough: 9973 (1.98%)
 
-	* Diarrhea: 1382 (0.27%)
+	* Diarrhea: 1424 (0.28%)
 
-	* Pneumonia: 5528 (1.10%)
+	* Pneumonia: 5699 (1.13%)
 
-	* Extremely high blood sugar: 2073 (0.41%)
+	* Extremely high blood sugar: 2137 (0.43%)
 
