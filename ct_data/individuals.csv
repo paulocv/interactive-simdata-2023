@@ -617,6 +617,7 @@ patient_id,age,house_id,in_school,is_teacher,in_work,day_symptom_onset,infec_set
 4444,34,1401,No,No,Yes,137,community,No
 4454,35,1404,Yes,No,No,95,school,Yes
 4472,53,1412,No,No,Yes,174,community,No
+4473,51,1412,No,No,No,179,house,No
 4480,40,1416,No,No,Yes,102,house,Yes
 4486,43,1417,No,No,Yes,135,work,No
 4488,17,1417,Yes,No,No,98,school,Yes
@@ -1147,6 +1148,7 @@ patient_id,age,house_id,in_school,is_teacher,in_work,day_symptom_onset,infec_set
 8070,78,2544,No,No,No,55,community,No
 8088,15,2551,Yes,No,No,98,school,Yes
 8096,28,2555,No,No,No,97,house,No
+8107,17,2558,No,No,Yes,178,house,No
 8113,10,2559,Yes,No,No,138,school,No
 8117,15,2560,Yes,No,No,104,school,No
 8118,15,2560,Yes,No,No,103,school,No
@@ -2197,6 +2199,7 @@ patient_id,age,house_id,in_school,is_teacher,in_work,day_symptom_onset,infec_set
 15625,60,4955,No,No,Yes,70,community,No
 15635,71,4958,No,No,No,137,community,No
 15641,28,4960,Yes,No,No,131,school,Yes
+15655,53,4965,No,No,Yes,176,house,Yes
 15660,20,4967,Yes,No,Yes,120,work,No
 15661,41,4968,No,No,Yes,116,community,No
 15663,18,4968,Yes,No,No,128,house,No
@@ -2480,6 +2483,7 @@ patient_id,age,house_id,in_school,is_teacher,in_work,day_symptom_onset,infec_set
 17581,22,5587,No,No,Yes,128,house,No
 17590,81,5589,No,No,No,116,house,No
 17592,42,5590,No,No,No,100,house,No
+17612,39,5597,No,No,Yes,177,house,No
 17638,41,5604,No,No,Yes,147,house,Yes
 17647,12,5606,Yes,No,No,65,school,No
 17676,44,5617,No,No,Yes,93,house,No
@@ -3935,6 +3939,7 @@ patient_id,age,house_id,in_school,is_teacher,in_work,day_symptom_onset,infec_set
 27780,40,8824,No,No,Yes,118,house,Yes
 27806,24,8832,No,No,Yes,81,work,No
 27807,49,8832,No,No,Yes,91,work,No
+27808,47,8833,No,No,No,179,community,No
 27824,31,8839,No,No,No,109,house,No
 27827,8,8839,Yes,No,No,103,school,No
 27829,6,8839,Yes,No,No,124,school,No
@@ -4190,6 +4195,7 @@ patient_id,age,house_id,in_school,is_teacher,in_work,day_symptom_onset,infec_set
 29529,7,9372,Yes,No,No,102,school,No
 29530,5,9372,Yes,No,No,135,school,No
 29531,5,9372,Yes,No,No,115,school,No
+29540,6,9375,Yes,No,No,178,school,Yes
 29542,4,9375,Yes,No,No,111,school,Yes
 29559,8,9381,Yes,No,No,61,house,No
 29564,16,9383,Yes,No,No,114,school,No
@@ -4260,6 +4266,7 @@ patient_id,age,house_id,in_school,is_teacher,in_work,day_symptom_onset,infec_set
 30064,36,9544,No,No,Yes,109,work,Yes
 30065,30,9544,No,No,Yes,112,house,No
 30069,3,9545,Yes,No,No,121,school,No
+30070,52,9546,No,No,Yes,176,house,No
 30071,53,9546,No,No,Yes,173,work,No
 30089,50,9554,No,No,No,123,house,No
 30097,17,9555,Yes,No,No,92,school,No
@@ -4756,6 +4763,7 @@ patient_id,age,house_id,in_school,is_teacher,in_work,day_symptom_onset,infec_set
 33452,14,10636,Yes,No,No,140,school,No
 33459,16,10639,Yes,No,No,120,community,No
 33465,16,10640,Yes,No,No,61,school,No
+33469,69,10642,No,No,No,181,community,No
 33477,7,10644,Yes,No,No,83,school,Yes
 33488,18,10648,Yes,No,No,73,school,No
 33489,32,10649,Yes,Yes,No,102,house,No
@@ -5441,6 +5449,7 @@ patient_id,age,house_id,in_school,is_teacher,in_work,day_symptom_onset,infec_set
 38478,36,12240,No,No,Yes,167,work,No
 38496,22,12245,Yes,No,No,143,school,No
 38505,21,12248,Yes,No,No,98,house,No
+38541,35,12259,No,No,Yes,175,work,Yes
 38542,13,12259,Yes,No,No,96,school,No
 38548,39,12261,No,No,Yes,79,house,No
 38575,18,12268,Yes,No,Yes,105,school,Yes
@@ -5654,6 +5663,7 @@ patient_id,age,house_id,in_school,is_teacher,in_work,day_symptom_onset,infec_set
 40012,48,12724,No,No,No,117,house,No
 40018,53,12727,Yes,Yes,No,121,school,Yes
 40036,3,12732,Yes,No,No,71,house,No
+40051,48,12737,No,No,Yes,180,work,No
 40052,37,12738,No,No,No,96,house,No
 40060,23,12740,Yes,No,No,133,school,No
 40064,49,12741,No,No,Yes,107,house,No
@@ -5695,6 +5705,7 @@ patient_id,age,house_id,in_school,is_teacher,in_work,day_symptom_onset,infec_set
 40296,52,12813,Yes,No,No,81,house,No
 40304,31,12816,No,No,Yes,131,house,No
 40310,63,12818,No,No,Yes,113,work,Yes
+40323,47,12822,No,No,Yes,175,work,No
 40340,37,12828,No,No,Yes,87,community,Yes
 40346,15,12828,Yes,No,No,88,house,No
 40347,39,12828,Yes,No,No,90,house,No
@@ -6072,7 +6083,7 @@ patient_id,age,house_id,in_school,is_teacher,in_work,day_symptom_onset,infec_set
 42901,8,13647,Yes,No,No,100,school,No
 42902,10,13647,Yes,No,Yes,106,house,No
 42910,13,13649,Yes,No,No,121,school,No
-42914,28,13651,No,No,Yes,167,house,No
+42914,28,13651,No,No,Yes,167,house,Yes
 42917,52,13652,No,No,Yes,117,house,No
 42925,20,13655,No,No,Yes,61,house,No
 42926,20,13655,Yes,No,No,59,school,No
@@ -6206,6 +6217,7 @@ patient_id,age,house_id,in_school,is_teacher,in_work,day_symptom_onset,infec_set
 43896,35,13964,No,No,Yes,132,house,No
 43907,18,13968,Yes,No,No,80,house,Yes
 43908,12,13968,Yes,No,No,67,school,No
+43909,33,13969,No,No,Yes,177,work,No
 43911,9,13969,Yes,No,No,97,community,No
 43913,18,13970,Yes,No,No,124,school,No
 43917,49,13972,Yes,No,No,5,community,No
@@ -6335,6 +6347,7 @@ patient_id,age,house_id,in_school,is_teacher,in_work,day_symptom_onset,infec_set
 44702,24,14223,Yes,Yes,No,89,school,Yes
 44709,50,14225,No,No,Yes,66,work,No
 44744,6,14238,Yes,No,No,117,school,No
+44751,76,14241,No,No,No,177,house,No
 44752,28,14242,Yes,Yes,No,63,school,Yes
 44758,23,14244,Yes,No,No,103,school,No
 44778,68,14252,No,No,Yes,92,work,No
@@ -6588,6 +6601,7 @@ patient_id,age,house_id,in_school,is_teacher,in_work,day_symptom_onset,infec_set
 46365,1,14763,No,No,Yes,96,work,No
 46373,17,14766,Yes,No,No,129,school,No
 46386,11,14770,Yes,No,No,115,school,No
+46391,66,14772,No,No,Yes,178,work,No
 46393,54,14773,Yes,No,No,118,house,No
 46394,63,14773,No,No,Yes,121,house,Yes
 46415,57,14781,No,No,Yes,99,house,Yes
@@ -6715,6 +6729,7 @@ patient_id,age,house_id,in_school,is_teacher,in_work,day_symptom_onset,infec_set
 47196,37,15019,No,No,No,114,house,No
 47204,21,15023,Yes,No,No,132,school,No
 47218,13,15027,Yes,No,No,71,school,No
+47225,53,15029,No,No,Yes,175,house,Yes
 47226,53,15029,No,No,Yes,168,work,No
 47228,43,15030,Yes,No,No,116,school,No
 47229,14,15030,Yes,No,No,85,school,No
@@ -7031,6 +7046,7 @@ patient_id,age,house_id,in_school,is_teacher,in_work,day_symptom_onset,infec_set
 49498,43,15749,No,No,Yes,62,house,No
 49502,30,15750,Yes,No,No,91,school,Yes
 49510,35,15753,No,No,Yes,170,house,No
+49511,33,15753,No,No,Yes,175,house,Yes
 49513,2,15753,No,No,No,163,community,No
 49514,49,15754,No,No,No,123,house,No
 49518,40,15755,No,No,Yes,129,house,No
@@ -7221,7 +7237,7 @@ patient_id,age,house_id,in_school,is_teacher,in_work,day_symptom_onset,infec_set
 50794,3,16172,No,No,No,142,house,No
 50795,32,16172,Yes,No,No,121,school,No
 50800,26,16174,No,No,Yes,135,work,No
-50804,60,16175,No,No,Yes,167,house,Yes
+50804,60,16175,No,No,Yes,167,house,No
 50818,16,16180,Yes,No,No,121,school,No
 50821,49,16182,No,No,Yes,111,work,Yes
 50822,52,16182,No,No,No,113,house,No
@@ -7660,6 +7676,7 @@ patient_id,age,house_id,in_school,is_teacher,in_work,day_symptom_onset,infec_set
 53747,3,17081,No,No,No,139,house,No
 53748,2,17081,No,No,No,132,house,No
 53751,59,17083,No,No,Yes,132,work,No
+53764,57,17087,No,No,No,180,house,No
 53770,56,17090,No,No,No,134,community,No
 53777,11,17092,Yes,No,No,90,school,No
 53782,9,17093,Yes,No,No,108,school,No
@@ -7822,7 +7839,7 @@ patient_id,age,house_id,in_school,is_teacher,in_work,day_symptom_onset,infec_set
 55026,59,17479,No,No,No,120,house,No
 55045,32,17485,No,No,Yes,135,work,No
 55052,20,17486,Yes,No,No,107,school,Yes
-55059,57,17488,No,No,Yes,171,house,Yes
+55059,57,17488,No,No,Yes,171,house,No
 55060,52,17488,No,No,No,167,community,No
 55061,55,17489,No,No,Yes,85,work,No
 55066,60,17491,No,No,Yes,100,work,No
@@ -7910,7 +7927,7 @@ patient_id,age,house_id,in_school,is_teacher,in_work,day_symptom_onset,infec_set
 55824,53,17743,No,No,Yes,72,house,Yes
 55826,66,17744,No,No,Yes,76,work,No
 55832,31,17746,No,No,Yes,112,work,No
-55839,12,17748,Yes,No,No,171,house,Yes
+55839,12,17748,Yes,No,No,171,house,No
 55846,47,17751,No,No,Yes,78,house,Yes
 55847,49,17751,No,No,Yes,67,house,No
 55848,19,17751,Yes,No,Yes,63,school,No
@@ -8360,6 +8377,7 @@ patient_id,age,house_id,in_school,is_teacher,in_work,day_symptom_onset,infec_set
 58905,37,18735,No,No,Yes,112,house,Yes
 58906,37,18735,No,No,Yes,113,house,No
 58909,8,18735,Yes,No,No,110,house,No
+58916,59,18738,No,No,Yes,175,work,No
 58945,46,18747,Yes,No,No,37,school,Yes
 58946,47,18747,No,No,Yes,40,house,No
 58954,45,18750,No,No,Yes,128,house,Yes
@@ -8721,7 +8739,7 @@ patient_id,age,house_id,in_school,is_teacher,in_work,day_symptom_onset,infec_set
 61545,49,19567,No,No,Yes,85,community,No
 61558,10,19571,Yes,No,No,111,school,No
 61568,57,19575,No,No,Yes,161,work,No
-61569,59,19575,No,No,Yes,169,house,Yes
+61569,59,19575,No,No,Yes,169,house,No
 61574,19,19577,Yes,No,No,107,school,No
 61581,63,19579,No,No,Yes,137,work,Yes
 61605,64,19586,No,No,Yes,102,community,No
@@ -9134,6 +9152,7 @@ patient_id,age,house_id,in_school,is_teacher,in_work,day_symptom_onset,infec_set
 64468,10,20517,Yes,No,No,125,school,No
 64475,53,20520,No,No,Yes,103,house,Yes
 64477,28,20520,No,No,Yes,138,work,No
+64486,51,20523,No,No,Yes,179,work,No
 64488,44,20524,No,No,Yes,61,house,No
 64496,39,20527,No,No,Yes,112,house,No
 64517,24,20536,No,No,Yes,125,house,Yes
@@ -9250,6 +9269,7 @@ patient_id,age,house_id,in_school,is_teacher,in_work,day_symptom_onset,infec_set
 65252,18,20774,Yes,No,No,114,house,No
 65258,20,20777,Yes,No,Yes,128,school,No
 65263,52,20779,No,No,Yes,104,house,Yes
+65293,63,20787,No,No,Yes,181,work,No
 65297,38,20789,Yes,No,No,121,school,No
 65311,8,20794,Yes,No,No,93,school,No
 65354,30,20806,Yes,No,No,74,school,No
@@ -9998,6 +10018,7 @@ patient_id,age,house_id,in_school,is_teacher,in_work,day_symptom_onset,infec_set
 70890,21,22552,Yes,No,No,120,school,No
 70892,42,22553,Yes,Yes,No,104,house,No
 70896,15,22553,Yes,No,No,93,school,No
+70897,42,22554,No,No,Yes,180,work,No
 70909,4,22558,No,No,No,112,house,No
 70919,30,22561,No,No,Yes,77,house,No
 70928,45,22564,No,No,Yes,168,work,No
@@ -10453,6 +10474,7 @@ patient_id,age,house_id,in_school,is_teacher,in_work,day_symptom_onset,infec_set
 73930,18,23531,Yes,No,No,98,school,No
 73933,63,23533,No,No,Yes,136,work,Yes
 73950,32,23539,No,No,Yes,174,work,No
+73951,39,23539,No,No,No,178,house,Yes
 73959,52,23543,No,No,Yes,102,house,No
 73979,35,23551,No,No,Yes,129,house,No
 73982,5,23551,Yes,No,No,127,school,Yes
@@ -10599,7 +10621,7 @@ patient_id,age,house_id,in_school,is_teacher,in_work,day_symptom_onset,infec_set
 75057,4,23893,Yes,No,No,127,school,Yes
 75060,43,23895,No,No,Yes,85,work,No
 75063,15,23895,Yes,No,No,116,school,No
-75069,29,23898,No,No,Yes,171,house,No
+75069,29,23898,No,No,Yes,171,house,Yes
 75070,37,23898,No,No,Yes,164,work,No
 75075,27,23900,No,No,Yes,92,work,Yes
 75080,10,23902,Yes,No,No,82,school,No
@@ -10607,6 +10629,7 @@ patient_id,age,house_id,in_school,is_teacher,in_work,day_symptom_onset,infec_set
 75093,54,23906,No,No,No,103,house,No
 75095,48,23906,No,No,No,90,house,No
 75096,44,23906,No,No,Yes,102,house,Yes
+75100,41,23908,No,No,Yes,175,house,No
 75103,7,23909,Yes,No,No,120,school,No
 75104,1,23909,No,No,No,127,house,No
 75111,81,23912,No,No,No,120,house,No
@@ -11185,7 +11208,7 @@ patient_id,age,house_id,in_school,is_teacher,in_work,day_symptom_onset,infec_set
 78988,40,25150,Yes,No,No,120,house,No
 78995,20,25152,Yes,No,Yes,130,school,No
 78997,26,25152,No,No,Yes,112,work,Yes
-78998,67,25153,No,No,No,168,community,No
+78998,67,25153,No,No,No,168,community,Yes
 78999,52,25153,No,No,Yes,150,community,No
 79002,43,25155,No,No,Yes,92,community,Yes
 79003,37,25155,Yes,No,No,127,house,No
@@ -11217,6 +11240,7 @@ patient_id,age,house_id,in_school,is_teacher,in_work,day_symptom_onset,infec_set
 79181,50,25211,Yes,Yes,No,96,school,No
 79187,56,25214,No,No,No,98,house,Yes
 79188,54,25214,No,No,Yes,101,house,Yes
+79197,9,25216,Yes,No,No,181,house,No
 79199,70,25217,No,No,Yes,90,community,No
 79200,73,25217,No,No,No,99,house,Yes
 79201,50,25218,No,No,Yes,105,house,No
@@ -11434,6 +11458,7 @@ patient_id,age,house_id,in_school,is_teacher,in_work,day_symptom_onset,infec_set
 80544,32,25641,No,No,Yes,74,work,No
 80552,11,25643,Yes,No,No,68,school,No
 80555,29,25644,No,No,Yes,120,community,No
+80574,55,25648,No,No,Yes,180,work,No
 80581,39,25650,No,No,Yes,153,work,No
 80592,37,25654,No,No,Yes,134,house,Yes
 80596,3,25655,Yes,No,No,96,school,No
@@ -11459,6 +11484,7 @@ patient_id,age,house_id,in_school,is_teacher,in_work,day_symptom_onset,infec_set
 80749,34,25705,No,No,Yes,103,work,Yes
 80754,4,25706,Yes,No,No,87,school,No
 80755,5,25706,Yes,No,No,93,school,No
+80786,62,25717,No,No,Yes,178,community,No
 80797,26,25721,No,No,Yes,90,house,No
 80799,20,25721,Yes,No,No,86,school,Yes
 80809,56,25724,No,No,No,112,house,No
@@ -11473,6 +11499,7 @@ patient_id,age,house_id,in_school,is_teacher,in_work,day_symptom_onset,infec_set
 80892,37,25745,No,No,Yes,101,house,Yes
 80901,25,25748,No,No,Yes,88,house,Yes
 80930,24,25759,No,No,Yes,143,house,No
+80946,44,25764,No,No,Yes,179,work,No
 80948,16,25764,Yes,No,No,129,school,No
 80954,45,25766,No,No,Yes,101,community,No
 80956,26,25767,Yes,Yes,No,83,school,No
@@ -11573,7 +11600,7 @@ patient_id,age,house_id,in_school,is_teacher,in_work,day_symptom_onset,infec_set
 81606,17,25969,Yes,No,Yes,108,house,No
 81621,8,25973,Yes,No,No,85,school,No
 81623,56,25974,No,No,No,104,house,No
-81634,41,25979,No,No,Yes,170,house,No
+81634,41,25979,No,No,Yes,170,house,Yes
 81637,12,25979,Yes,No,No,148,school,No
 81684,33,25996,Yes,No,No,76,school,Yes
 81685,35,25996,No,No,Yes,80,house,No
@@ -11601,7 +11628,7 @@ patient_id,age,house_id,in_school,is_teacher,in_work,day_symptom_onset,infec_set
 81808,37,26037,No,No,Yes,137,house,No
 81810,4,26037,No,No,No,152,house,No
 81811,16,26037,Yes,No,No,128,school,No
-81827,50,26044,No,No,Yes,172,work,No
+81827,50,26044,No,No,Yes,172,work,Yes
 81832,41,26047,No,No,Yes,86,house,No
 81836,23,26047,Yes,No,No,83,house,No
 81838,54,26048,Yes,No,No,102,school,No
@@ -12027,6 +12054,7 @@ patient_id,age,house_id,in_school,is_teacher,in_work,day_symptom_onset,infec_set
 84739,11,26969,Yes,No,No,77,house,No
 84745,4,26971,Yes,No,No,118,school,Yes
 84761,48,26979,No,No,Yes,51,house,Yes
+84765,33,26980,No,No,No,176,community,No
 84782,48,26985,No,No,Yes,143,house,No
 84783,36,26985,Yes,Yes,No,144,house,No
 84785,8,26985,Yes,No,No,134,school,Yes
@@ -12142,6 +12170,7 @@ patient_id,age,house_id,in_school,is_teacher,in_work,day_symptom_onset,infec_set
 85560,30,27231,No,No,Yes,107,work,No
 85562,12,27231,Yes,No,No,74,school,No
 85566,20,27232,No,No,Yes,143,work,No
+85568,16,27232,Yes,No,No,178,house,Yes
 85569,47,27233,No,No,Yes,121,house,Yes
 85576,52,27236,No,No,Yes,108,community,No
 85579,18,27236,Yes,No,No,112,school,No
@@ -12346,7 +12375,7 @@ patient_id,age,house_id,in_school,is_teacher,in_work,day_symptom_onset,infec_set
 86927,56,27655,No,No,Yes,91,house,No
 86928,54,27655,No,No,Yes,93,house,No
 86933,54,27657,No,No,Yes,160,work,Yes
-86934,58,27657,No,No,Yes,166,house,Yes
+86934,58,27657,No,No,Yes,166,house,No
 86940,7,27658,Yes,No,No,112,school,No
 86942,12,27658,Yes,No,No,97,school,No
 86948,31,27661,No,No,Yes,97,work,Yes
@@ -12404,7 +12433,7 @@ patient_id,age,house_id,in_school,is_teacher,in_work,day_symptom_onset,infec_set
 87331,19,27787,Yes,No,Yes,119,school,No
 87334,21,27787,No,No,Yes,145,work,No
 87336,45,27788,No,No,Yes,117,community,No
-87346,60,27792,No,No,Yes,168,house,Yes
+87346,60,27792,No,No,Yes,168,house,No
 87347,57,27792,No,No,Yes,166,work,No
 87353,9,27794,Yes,No,No,91,house,No
 87385,47,27804,No,No,Yes,115,house,No
@@ -14310,7 +14339,7 @@ patient_id,age,house_id,in_school,is_teacher,in_work,day_symptom_onset,infec_set
 100200,18,31876,Yes,No,No,130,school,No
 100213,45,31881,No,No,Yes,49,house,No
 100216,10,31881,Yes,No,No,51,house,No
-100218,54,31882,No,No,Yes,169,house,No
+100218,54,31882,No,No,Yes,169,house,Yes
 100227,23,31885,Yes,No,No,86,house,No
 100242,11,31890,Yes,No,No,118,house,No
 100248,49,31892,No,No,Yes,111,work,No
@@ -15794,6 +15823,7 @@ patient_id,age,house_id,in_school,is_teacher,in_work,day_symptom_onset,infec_set
 110905,10,35311,Yes,No,No,73,school,No
 110909,4,35312,Yes,No,No,101,school,No
 110910,7,35312,Yes,No,No,66,school,No
+110917,38,35316,No,No,Yes,179,work,No
 110918,16,35316,Yes,No,No,123,school,No
 110925,23,35318,Yes,No,No,61,school,No
 110927,14,35319,Yes,No,No,133,school,No
@@ -15843,6 +15873,7 @@ patient_id,age,house_id,in_school,is_teacher,in_work,day_symptom_onset,infec_set
 111212,20,35407,Yes,No,No,113,school,No
 111213,18,35407,Yes,No,No,112,school,No
 111216,19,35408,Yes,No,Yes,107,school,No
+111227,57,35411,No,No,Yes,176,community,No
 111228,48,35412,No,No,No,82,house,No
 111230,21,35412,Yes,No,No,76,school,No
 111246,43,35418,Yes,Yes,No,112,school,No
@@ -16673,6 +16704,7 @@ patient_id,age,house_id,in_school,is_teacher,in_work,day_symptom_onset,infec_set
 116595,42,37121,No,No,Yes,156,house,No
 116596,15,37121,Yes,No,No,145,community,Yes
 116607,52,37126,No,No,No,106,house,No
+116616,80,37128,No,No,No,177,house,No
 116617,78,37128,No,No,No,166,community,Yes
 116626,11,37131,Yes,No,No,139,school,No
 116628,30,37132,No,No,Yes,73,house,Yes
@@ -17183,6 +17215,7 @@ patient_id,age,house_id,in_school,is_teacher,in_work,day_symptom_onset,infec_set
 120228,4,38263,Yes,No,No,97,school,No
 120248,7,38270,Yes,No,No,86,community,No
 120258,82,38273,No,No,Yes,111,community,Yes
+120260,35,38274,No,No,Yes,176,work,No
 120262,6,38274,Yes,No,No,85,school,No
 120264,43,38275,No,No,Yes,152,house,No
 120266,17,38275,Yes,No,No,161,house,No
@@ -17834,7 +17867,7 @@ patient_id,age,house_id,in_school,is_teacher,in_work,day_symptom_onset,infec_set
 125202,37,39825,No,No,Yes,91,house,Yes
 125203,46,39825,No,No,Yes,84,community,No
 125215,46,39829,No,No,Yes,170,work,Yes
-125216,14,39829,No,No,No,173,house,Yes
+125216,14,39829,No,No,No,173,house,No
 125218,22,39830,Yes,No,No,135,school,Yes
 125225,42,39832,Yes,Yes,Yes,113,school,No
 125230,55,39833,No,No,No,94,community,Yes
@@ -17973,6 +18006,7 @@ patient_id,age,house_id,in_school,is_teacher,in_work,day_symptom_onset,infec_set
 126245,16,40152,Yes,No,No,85,house,No
 126246,16,40152,Yes,No,No,76,school,No
 126247,11,40152,Yes,No,No,82,school,No
+126254,47,40155,No,No,No,176,house,Yes
 126256,17,40155,Yes,No,No,107,school,No
 126258,10,40155,Yes,No,No,173,school,No
 126267,5,40159,Yes,No,No,148,house,No
@@ -18040,6 +18074,7 @@ patient_id,age,house_id,in_school,is_teacher,in_work,day_symptom_onset,infec_set
 126681,60,40300,No,No,Yes,83,work,Yes
 126686,21,40302,No,No,Yes,102,house,Yes
 126692,48,40305,No,No,Yes,95,house,No
+126703,23,40307,No,No,Yes,178,work,No
 126725,6,40313,Yes,No,No,128,school,No
 126734,30,40317,No,No,Yes,76,house,No
 126735,9,40317,Yes,No,No,107,school,No
@@ -18332,6 +18367,7 @@ patient_id,age,house_id,in_school,is_teacher,in_work,day_symptom_onset,infec_set
 128630,33,40928,Yes,Yes,No,143,house,Yes
 128631,6,40928,Yes,No,No,136,school,Yes
 128640,46,40932,No,No,No,81,house,No
+128647,21,40934,No,No,Yes,177,work,Yes
 128662,55,40938,No,No,No,115,community,No
 128663,48,40939,No,No,No,130,house,No
 128664,44,40939,No,No,Yes,120,house,No
@@ -19050,6 +19086,7 @@ patient_id,age,house_id,in_school,is_teacher,in_work,day_symptom_onset,infec_set
 133644,38,42516,No,No,Yes,98,house,Yes
 133646,12,42516,Yes,No,No,94,school,No
 133649,56,42517,No,No,Yes,94,work,No
+133659,26,42521,No,No,Yes,179,work,Yes
 133668,76,42523,No,No,Yes,114,work,No
 133669,61,42524,No,No,Yes,56,community,Yes
 133676,50,42526,No,No,Yes,108,house,No
@@ -19827,7 +19864,7 @@ patient_id,age,house_id,in_school,is_teacher,in_work,day_symptom_onset,infec_set
 139348,46,44335,No,No,Yes,114,work,No
 139360,14,44338,Yes,No,No,111,school,No
 139362,52,44339,No,No,No,173,house,No
-139363,50,44339,Yes,Yes,No,167,school,No
+139363,50,44339,Yes,Yes,No,167,school,Yes
 139369,22,44342,Yes,No,No,94,school,No
 139370,20,44342,No,No,Yes,100,house,No
 139381,10,44345,Yes,No,No,123,school,No
@@ -20800,7 +20837,7 @@ patient_id,age,house_id,in_school,is_teacher,in_work,day_symptom_onset,infec_set
 146091,38,46479,No,No,Yes,115,work,No
 146100,33,46482,No,No,Yes,113,work,No
 146108,30,46484,No,No,Yes,95,house,No
-146118,29,46488,No,No,Yes,166,work,Yes
+146118,29,46488,No,No,Yes,166,work,No
 146119,18,46488,Yes,No,No,93,school,No
 146124,13,46489,Yes,No,No,132,house,No
 146125,10,46489,Yes,No,No,123,school,No
@@ -20965,6 +21002,7 @@ patient_id,age,house_id,in_school,is_teacher,in_work,day_symptom_onset,infec_set
 147069,52,46794,No,No,Yes,89,house,Yes
 147071,26,46794,Yes,No,No,71,school,No
 147072,85,46794,No,No,Yes,75,house,No
+147079,66,46797,Yes,Yes,No,182,school,Yes
 147088,41,46801,No,No,No,119,house,No
 147090,16,46801,Yes,No,No,116,house,Yes
 147098,53,46804,No,No,Yes,115,house,Yes
@@ -21321,7 +21359,7 @@ patient_id,age,house_id,in_school,is_teacher,in_work,day_symptom_onset,infec_set
 149436,22,47547,Yes,No,No,119,house,No
 149451,55,47553,No,No,Yes,90,house,No
 149462,9,47557,Yes,No,No,123,school,No
-149467,53,47559,No,No,Yes,172,work,Yes
+149467,53,47559,No,No,Yes,172,work,No
 149484,41,47566,No,No,Yes,93,house,No
 149491,43,47568,No,No,Yes,115,community,Yes
 149492,8,47568,Yes,No,No,121,house,No
@@ -22428,7 +22466,7 @@ patient_id,age,house_id,in_school,is_teacher,in_work,day_symptom_onset,infec_set
 157562,11,50143,Yes,No,No,97,house,Yes
 157576,9,50148,Yes,No,No,137,school,No
 157588,30,50152,No,No,Yes,120,work,Yes
-157595,38,50154,No,No,Yes,174,work,Yes
+157595,38,50154,No,No,Yes,174,work,No
 157606,5,50158,Yes,No,No,103,house,Yes
 157607,6,50158,Yes,No,No,99,school,Yes
 157608,61,50159,No,No,Yes,112,work,No
@@ -24260,6 +24298,7 @@ patient_id,age,house_id,in_school,is_teacher,in_work,day_symptom_onset,infec_set
 170340,41,54211,No,No,No,81,house,No
 170341,13,54211,Yes,No,No,89,school,No
 170360,14,54217,Yes,No,No,74,school,No
+170362,42,54218,No,No,No,176,house,No
 170364,19,54218,No,No,Yes,144,house,No
 170366,28,54219,Yes,No,No,74,school,No
 170368,70,54220,No,No,Yes,77,house,Yes
@@ -24625,6 +24664,7 @@ patient_id,age,house_id,in_school,is_teacher,in_work,day_symptom_onset,infec_set
 172917,14,55031,Yes,No,No,84,house,No
 172926,56,55034,No,No,Yes,113,work,No
 172935,11,55036,Yes,No,No,74,school,No
+172940,40,55038,No,No,Yes,180,work,No
 172944,44,55040,Yes,No,No,103,community,No
 172960,59,55046,No,No,Yes,73,work,Yes
 172973,48,55051,No,No,Yes,106,house,Yes
@@ -24833,6 +24873,7 @@ patient_id,age,house_id,in_school,is_teacher,in_work,day_symptom_onset,infec_set
 174487,34,55535,No,No,Yes,110,work,No
 174489,8,55535,Yes,No,No,117,school,No
 174494,35,55537,No,No,Yes,118,work,No
+174514,32,55542,No,No,Yes,179,work,No
 174529,28,55546,Yes,No,No,86,school,No
 174553,47,55551,No,No,Yes,111,work,Yes
 174555,12,55551,Yes,No,No,137,school,Yes
@@ -24987,6 +25028,7 @@ patient_id,age,house_id,in_school,is_teacher,in_work,day_symptom_onset,infec_set
 175571,20,55883,No,No,Yes,122,house,No
 175577,73,55886,No,No,No,139,house,No
 175578,62,55886,Yes,Yes,No,133,school,No
+175579,56,55887,No,No,Yes,176,work,No
 175585,19,55888,Yes,No,No,116,school,No
 175603,10,55894,Yes,No,No,108,school,No
 175607,54,55896,Yes,Yes,No,108,school,No
@@ -25173,6 +25215,7 @@ patient_id,age,house_id,in_school,is_teacher,in_work,day_symptom_onset,infec_set
 176807,39,56268,No,No,Yes,129,work,No
 176810,32,56269,No,No,Yes,140,work,No
 176823,40,56273,Yes,No,No,114,community,No
+176845,50,56280,No,No,Yes,179,work,No
 176849,11,56280,Yes,No,No,95,school,No
 176858,37,56283,No,No,Yes,90,house,Yes
 176859,42,56283,No,No,Yes,111,community,No
@@ -25318,7 +25361,7 @@ patient_id,age,house_id,in_school,is_teacher,in_work,day_symptom_onset,infec_set
 177877,42,56598,No,No,Yes,133,community,No
 177884,56,56600,No,No,Yes,157,work,No
 177886,69,56601,No,No,No,159,house,No
-177888,64,56601,No,No,No,168,house,No
+177888,64,56601,No,No,No,168,house,Yes
 177899,17,56604,Yes,No,No,120,school,No
 177900,9,56604,Yes,No,No,128,house,No
 177908,41,56608,No,No,Yes,87,house,Yes
@@ -25682,7 +25725,7 @@ patient_id,age,house_id,in_school,is_teacher,in_work,day_symptom_onset,infec_set
 180285,21,57391,Yes,No,No,125,house,No
 180292,24,57394,No,No,Yes,120,house,Yes
 180293,6,57394,Yes,No,No,122,house,No
-180303,57,57397,No,No,No,173,community,Yes
+180303,57,57397,No,No,No,173,community,No
 180309,66,57399,No,No,Yes,114,house,No
 180315,40,57399,No,No,No,137,house,No
 180316,16,57399,Yes,No,No,83,school,No
@@ -26156,6 +26199,9 @@ patient_id,age,house_id,in_school,is_teacher,in_work,day_symptom_onset,infec_set
 183559,46,58429,No,No,Yes,81,house,No
 183565,17,58430,Yes,No,No,87,school,No
 183574,41,58432,No,No,Yes,100,house,No
+183579,29,58433,No,No,Yes,178,house,Yes
+183581,8,58433,No,No,No,180,house,No
+183582,4,58433,No,No,No,180,house,No
 183583,0,58433,No,No,No,172,community,No
 183586,46,58435,No,No,Yes,97,work,No
 183588,72,58436,No,No,No,143,community,No
@@ -26426,6 +26472,7 @@ patient_id,age,house_id,in_school,is_teacher,in_work,day_symptom_onset,infec_set
 185519,61,59025,No,No,Yes,135,work,Yes
 185523,67,59026,No,No,Yes,110,community,No
 185538,50,59032,No,No,Yes,130,house,No
+185546,53,59035,No,No,No,179,community,Yes
 185566,58,59042,No,No,Yes,99,work,No
 185569,38,59043,Yes,Yes,No,114,school,Yes
 185570,17,59043,Yes,No,No,118,house,Yes
@@ -26542,6 +26589,8 @@ patient_id,age,house_id,in_school,is_teacher,in_work,day_symptom_onset,infec_set
 186331,10,59292,Yes,No,No,81,school,No
 186336,53,59294,No,No,Yes,128,work,Yes
 186339,13,59295,Yes,No,No,104,school,No
+186363,43,59301,No,No,No,178,house,No
+186364,24,59301,No,No,Yes,177,house,Yes
 186370,23,59301,No,No,Yes,167,work,No
 186391,4,59307,No,No,No,110,house,No
 186393,9,59307,Yes,No,No,115,house,Yes
@@ -26794,6 +26843,7 @@ patient_id,age,house_id,in_school,is_teacher,in_work,day_symptom_onset,infec_set
 188121,6,59856,Yes,No,No,98,house,No
 188127,47,59859,Yes,No,No,88,school,No
 188140,3,59862,Yes,No,No,90,house,No
+188144,49,59864,No,No,Yes,179,house,No
 188145,49,59864,No,No,Yes,174,work,No
 188149,22,59866,Yes,No,Yes,47,house,No
 188153,34,59868,No,No,Yes,110,house,No
@@ -27075,6 +27125,7 @@ patient_id,age,house_id,in_school,is_teacher,in_work,day_symptom_onset,infec_set
 190071,51,60459,No,No,Yes,135,work,No
 190076,46,60462,No,No,No,161,house,No
 190077,30,60462,No,No,No,168,house,Yes
+190078,20,60462,Yes,No,No,177,house,No
 190079,18,60462,Yes,No,No,155,school,No
 190080,47,60462,No,No,No,166,house,No
 190085,34,60465,No,No,No,137,house,No
@@ -27192,6 +27243,7 @@ patient_id,age,house_id,in_school,is_teacher,in_work,day_symptom_onset,infec_set
 190897,5,60718,Yes,No,No,130,school,Yes
 190903,20,60720,No,No,Yes,103,house,No
 190907,46,60721,No,No,Yes,118,house,Yes
+190918,47,60725,No,No,Yes,179,work,No
 190920,14,60725,Yes,No,No,118,school,No
 190924,68,60727,No,No,No,130,community,No
 190928,37,60729,No,No,Yes,107,house,No
@@ -27201,6 +27253,7 @@ patient_id,age,house_id,in_school,is_teacher,in_work,day_symptom_onset,infec_set
 190941,14,60731,Yes,No,No,124,school,No
 190942,9,60731,Yes,No,No,80,house,No
 190943,21,60732,Yes,No,No,89,school,No
+190968,24,60741,Yes,No,No,177,school,No
 190975,29,60744,Yes,Yes,No,126,school,No
 190982,36,60746,No,No,No,111,house,No
 190991,15,60748,Yes,No,No,122,school,No
@@ -27412,7 +27465,7 @@ patient_id,age,house_id,in_school,is_teacher,in_work,day_symptom_onset,infec_set
 192307,45,61182,Yes,No,No,97,house,No
 192308,17,61182,Yes,No,No,93,school,No
 192323,1,61187,No,No,No,85,house,Yes
-192325,9,61188,Yes,No,No,166,house,Yes
+192325,9,61188,Yes,No,No,166,house,No
 192326,9,61188,No,No,No,155,house,No
 192329,28,61188,No,No,Yes,150,house,Yes
 192330,26,61188,No,No,Yes,150,work,No
@@ -27538,6 +27591,7 @@ patient_id,age,house_id,in_school,is_teacher,in_work,day_symptom_onset,infec_set
 193153,37,61452,No,No,Yes,124,house,No
 193155,18,61452,Yes,No,No,122,school,No
 193163,53,61456,No,No,Yes,132,work,No
+193169,63,61457,No,No,Yes,179,house,No
 193173,40,61459,No,No,No,109,house,No
 193175,17,61459,Yes,No,Yes,105,work,No
 193180,9,61460,Yes,No,No,121,school,Yes
@@ -27899,6 +27953,7 @@ patient_id,age,house_id,in_school,is_teacher,in_work,day_symptom_onset,infec_set
 195476,21,62185,Yes,No,No,95,school,No
 195489,54,62188,No,No,Yes,142,house,Yes
 195490,15,62188,Yes,No,No,136,school,No
+195491,51,62189,No,No,Yes,176,work,No
 195492,33,62189,Yes,No,No,105,house,No
 195494,11,62189,Yes,No,No,134,school,No
 195496,14,62189,Yes,No,No,121,school,Yes
@@ -28383,6 +28438,7 @@ patient_id,age,house_id,in_school,is_teacher,in_work,day_symptom_onset,infec_set
 198990,31,63296,No,No,Yes,88,house,Yes
 198992,32,63297,No,No,Yes,105,work,No
 199004,53,63301,No,No,No,115,house,No
+199006,60,63302,No,No,Yes,181,house,No
 199016,40,63306,No,No,Yes,114,house,No
 199017,15,63306,Yes,No,No,113,school,No
 199018,45,63307,No,No,Yes,98,house,No
@@ -28779,6 +28835,7 @@ patient_id,age,house_id,in_school,is_teacher,in_work,day_symptom_onset,infec_set
 201961,40,64256,No,No,No,127,house,No
 201968,59,64259,Yes,Yes,No,97,school,Yes
 201991,78,64267,No,No,Yes,95,house,No
+201997,35,64269,No,No,Yes,176,work,No
 202026,38,64279,No,No,Yes,105,work,No
 202042,24,64283,No,No,Yes,87,house,No
 202044,10,64283,Yes,No,No,89,house,No
@@ -28796,6 +28853,8 @@ patient_id,age,house_id,in_school,is_teacher,in_work,day_symptom_onset,infec_set
 202165,19,64317,Yes,No,No,103,school,No
 202172,69,64319,Yes,Yes,No,92,community,Yes
 202174,39,64320,No,No,Yes,109,house,No
+202183,53,64323,No,No,Yes,175,work,No
+202184,60,64323,No,No,No,175,house,No
 202200,41,64329,No,No,Yes,120,work,Yes
 202203,18,64330,Yes,No,No,124,school,No
 202215,13,64335,Yes,No,No,98,school,No
@@ -29752,6 +29811,7 @@ patient_id,age,house_id,in_school,is_teacher,in_work,day_symptom_onset,infec_set
 208745,37,66429,No,No,Yes,108,house,No
 208747,6,66429,Yes,No,No,104,school,No
 208760,58,66433,No,No,Yes,103,work,No
+208792,51,66442,No,No,No,180,house,No
 208798,61,66444,No,No,Yes,109,house,No
 208799,62,66444,No,No,Yes,107,work,No
 208825,29,66454,Yes,No,No,63,house,No
@@ -29862,6 +29922,7 @@ patient_id,age,house_id,in_school,is_teacher,in_work,day_symptom_onset,infec_set
 209482,73,66662,No,No,No,80,community,No
 209505,19,66669,No,No,Yes,128,work,No
 209508,12,66669,Yes,No,No,80,school,No
+209524,29,66675,No,No,Yes,175,work,Yes
 209527,45,66676,No,No,Yes,106,house,Yes
 209528,44,66676,No,No,Yes,115,house,No
 209537,39,66679,No,No,Yes,133,house,No
@@ -29931,8 +29992,8 @@ patient_id,age,house_id,in_school,is_teacher,in_work,day_symptom_onset,infec_set
 209891,51,66796,Yes,No,No,128,school,No
 209893,75,66797,No,No,No,133,house,No
 209894,70,66797,No,No,Yes,131,work,No
-209898,35,66799,No,No,Yes,173,house,No
-209899,29,66799,No,No,Yes,172,work,Yes
+209898,35,66799,No,No,Yes,173,house,Yes
+209899,29,66799,No,No,Yes,172,work,No
 209906,70,66802,No,No,Yes,159,work,Yes
 209907,64,66802,No,No,No,89,community,Yes
 209911,33,66804,No,No,Yes,83,house,No
@@ -29942,7 +30003,7 @@ patient_id,age,house_id,in_school,is_teacher,in_work,day_symptom_onset,infec_set
 209943,55,66815,No,No,No,113,house,No
 209944,57,66815,No,No,Yes,112,work,No
 209953,47,66819,No,No,Yes,99,community,No
-209954,46,66819,Yes,Yes,No,166,house,No
+209954,46,66819,Yes,Yes,No,166,house,Yes
 209960,38,66821,Yes,No,No,84,school,No
 209961,14,66821,Yes,No,No,87,school,No
 209975,5,66825,Yes,No,No,118,school,No
@@ -31139,7 +31200,7 @@ patient_id,age,house_id,in_school,is_teacher,in_work,day_symptom_onset,infec_set
 217854,30,69321,No,No,Yes,125,work,No
 217859,11,69322,Yes,No,No,116,school,No
 217878,38,69328,No,No,No,148,house,Yes
-217894,44,69333,No,No,Yes,174,work,Yes
+217894,44,69333,No,No,Yes,174,work,No
 217902,9,69335,Yes,No,No,125,school,No
 217923,31,69342,No,No,Yes,145,work,Yes
 217924,33,69342,Yes,Yes,No,150,house,No
@@ -31425,7 +31486,7 @@ patient_id,age,house_id,in_school,is_teacher,in_work,day_symptom_onset,infec_set
 219790,39,69948,No,No,Yes,96,work,No
 219793,5,69948,Yes,No,No,93,school,Yes
 219795,6,69949,Yes,No,No,112,school,No
-219809,30,69953,Yes,No,No,168,house,No
+219809,30,69953,Yes,No,No,168,house,Yes
 219812,43,69954,No,No,No,140,house,No
 219813,40,69954,No,No,Yes,148,house,Yes
 219817,22,69955,No,No,Yes,144,house,No
@@ -32010,7 +32071,7 @@ patient_id,age,house_id,in_school,is_teacher,in_work,day_symptom_onset,infec_set
 223935,50,71280,Yes,Yes,No,84,school,No
 223938,33,71281,Yes,Yes,No,119,school,No
 223947,60,71284,No,No,No,95,house,No
-223969,61,71292,No,No,Yes,169,house,Yes
+223969,61,71292,No,No,Yes,169,house,No
 223970,55,71292,No,No,Yes,158,house,No
 223973,22,71292,Yes,No,No,162,house,No
 223986,44,71298,No,No,Yes,127,house,No
@@ -32274,7 +32335,7 @@ patient_id,age,house_id,in_school,is_teacher,in_work,day_symptom_onset,infec_set
 225923,3,71923,No,No,No,86,house,No
 225927,47,71925,No,No,Yes,106,house,No
 225928,45,71925,No,No,Yes,104,work,Yes
-225930,20,71926,Yes,No,No,170,school,Yes
+225930,20,71926,Yes,No,No,170,school,No
 225932,52,71926,Yes,Yes,No,115,house,No
 225933,43,71927,No,No,Yes,130,house,No
 225936,20,71927,Yes,No,No,128,house,No
@@ -32559,6 +32620,7 @@ patient_id,age,house_id,in_school,is_teacher,in_work,day_symptom_onset,infec_set
 228130,45,72652,No,No,Yes,100,work,No
 228131,39,72653,No,No,No,116,house,No
 228141,30,72656,Yes,No,No,98,school,No
+228163,7,72663,Yes,No,No,176,house,No
 228173,18,72667,Yes,No,No,119,school,No
 228187,40,72674,No,No,Yes,129,work,No
 228202,74,72680,No,No,No,141,house,No
@@ -32827,6 +32889,7 @@ patient_id,age,house_id,in_school,is_teacher,in_work,day_symptom_onset,infec_set
 230185,46,73319,No,No,Yes,57,work,No
 230186,21,73319,Yes,No,No,87,school,No
 230191,50,73321,No,No,No,97,community,No
+230193,19,73321,Yes,No,No,176,house,No
 230200,15,73324,No,No,No,131,house,Yes
 230205,17,73325,Yes,No,No,91,school,No
 230210,43,73327,No,No,Yes,75,house,Yes
@@ -33174,7 +33237,7 @@ patient_id,age,house_id,in_school,is_teacher,in_work,day_symptom_onset,infec_set
 232873,22,74153,Yes,No,No,89,school,No
 232875,75,74154,No,No,No,174,community,No
 232879,7,74155,Yes,No,No,91,school,Yes
-232883,69,74156,No,No,Yes,174,work,No
+232883,69,74156,No,No,Yes,174,work,Yes
 232890,37,74160,No,No,Yes,117,work,No
 232920,10,74168,Yes,No,No,104,school,No
 232924,16,74169,Yes,No,No,112,school,Yes
@@ -33504,7 +33567,7 @@ patient_id,age,house_id,in_school,is_teacher,in_work,day_symptom_onset,infec_set
 235190,5,74888,Yes,No,No,80,school,No
 235192,42,74889,No,No,Yes,98,house,No
 235194,20,74889,Yes,No,Yes,92,house,Yes
-235199,64,74891,Yes,Yes,No,169,school,No
+235199,64,74891,Yes,Yes,No,169,school,Yes
 235213,38,74897,No,No,Yes,110,house,Yes
 235216,9,74897,Yes,No,No,107,school,No
 235223,59,74900,No,No,No,121,house,Yes
@@ -34077,6 +34140,7 @@ patient_id,age,house_id,in_school,is_teacher,in_work,day_symptom_onset,infec_set
 239122,35,76168,No,No,Yes,95,house,No
 239124,10,76168,Yes,No,No,94,school,No
 239125,8,76168,No,No,No,97,community,Yes
+239126,6,76168,Yes,No,No,179,school,No
 239156,44,76179,No,No,Yes,128,house,Yes
 239179,34,76183,No,No,Yes,94,house,No
 239189,15,76186,Yes,No,No,94,school,No
@@ -34545,7 +34609,8 @@ patient_id,age,house_id,in_school,is_teacher,in_work,day_symptom_onset,infec_set
 242443,42,77218,No,No,Yes,121,house,No
 242444,42,77218,No,No,Yes,138,house,No
 242446,12,77218,Yes,No,No,141,house,Yes
-242455,20,77222,Yes,No,No,173,house,No
+242455,20,77222,Yes,No,No,173,house,Yes
+242457,24,77222,No,No,Yes,177,house,Yes
 242481,46,77232,No,No,Yes,116,work,No
 242488,24,77234,No,No,Yes,130,work,No
 242495,49,77237,No,No,Yes,104,house,No
@@ -34669,6 +34734,7 @@ patient_id,age,house_id,in_school,is_teacher,in_work,day_symptom_onset,infec_set
 243414,38,77531,No,No,Yes,100,house,Yes
 243415,21,77531,Yes,No,No,97,school,No
 243416,17,77531,Yes,No,No,119,school,No
+243421,72,77534,No,No,Yes,177,community,Yes
 243431,41,77538,No,No,Yes,112,house,No
 243433,5,77538,Yes,No,No,104,school,No
 243436,44,77540,No,No,Yes,88,community,No
@@ -34904,7 +34970,7 @@ patient_id,age,house_id,in_school,is_teacher,in_work,day_symptom_onset,infec_set
 245200,39,78098,No,No,Yes,125,house,No
 245206,40,78099,No,No,Yes,112,work,No
 245209,51,78100,No,No,No,110,community,No
-245232,50,78107,No,No,Yes,174,work,No
+245232,50,78107,No,No,Yes,174,work,Yes
 245234,19,78108,Yes,No,No,123,school,No
 245246,50,78112,No,No,Yes,101,house,No
 245260,41,78116,No,No,Yes,98,house,Yes
@@ -34995,7 +35061,7 @@ patient_id,age,house_id,in_school,is_teacher,in_work,day_symptom_onset,infec_set
 245882,5,78306,Yes,No,No,67,school,No
 245906,42,78313,No,No,Yes,89,work,Yes
 245907,44,78313,No,No,Yes,97,house,Yes
-245910,50,78315,Yes,No,No,167,house,No
+245910,50,78315,Yes,No,No,167,house,Yes
 245911,47,78315,No,No,Yes,147,work,No
 245929,48,78323,No,No,Yes,138,house,No
 245930,21,78323,No,No,Yes,136,work,No
@@ -35123,7 +35189,7 @@ patient_id,age,house_id,in_school,is_teacher,in_work,day_symptom_onset,infec_set
 246702,43,78567,No,No,Yes,165,work,No
 246710,2,78568,No,No,No,90,house,No
 246716,54,78570,Yes,No,No,155,house,No
-246719,25,78570,Yes,Yes,No,167,house,Yes
+246719,25,78570,Yes,Yes,No,167,house,No
 246745,44,78581,No,No,Yes,119,work,No
 246748,13,78581,Yes,No,No,94,community,No
 246753,16,78583,Yes,No,No,120,house,No
@@ -35721,7 +35787,7 @@ patient_id,age,house_id,in_school,is_teacher,in_work,day_symptom_onset,infec_set
 251002,26,79982,No,No,Yes,77,house,Yes
 251005,73,79983,No,No,Yes,119,work,No
 251015,20,79987,No,No,No,146,community,Yes
-251016,40,79988,Yes,No,No,166,house,Yes
+251016,40,79988,Yes,No,No,166,house,No
 251029,45,79992,No,No,Yes,128,house,No
 251041,27,79996,No,No,Yes,141,community,No
 251053,14,80000,Yes,No,No,87,house,Yes
@@ -38516,6 +38582,7 @@ patient_id,age,house_id,in_school,is_teacher,in_work,day_symptom_onset,infec_set
 270578,54,86173,Yes,Yes,No,133,school,Yes
 270584,55,86174,No,No,Yes,135,work,No
 270586,36,86175,No,No,Yes,132,work,No
+270593,56,86177,No,No,No,180,house,No
 270599,53,86179,No,No,Yes,98,work,No
 270601,17,86179,Yes,No,No,90,house,Yes
 270609,28,86182,No,No,Yes,123,house,No
@@ -38697,6 +38764,7 @@ patient_id,age,house_id,in_school,is_teacher,in_work,day_symptom_onset,infec_set
 271786,65,86555,No,No,Yes,124,work,Yes
 271793,51,86557,No,No,Yes,105,house,No
 271794,16,86557,Yes,No,No,100,school,Yes
+271795,38,86558,No,No,Yes,176,house,No
 271804,29,86561,No,No,Yes,94,work,No
 271830,36,86570,Yes,Yes,No,114,house,No
 271843,35,86575,Yes,Yes,No,100,school,No
@@ -39544,6 +39612,7 @@ patient_id,age,house_id,in_school,is_teacher,in_work,day_symptom_onset,infec_set
 277627,14,88437,Yes,No,No,112,school,No
 277634,19,88439,Yes,No,No,114,school,Yes
 277637,56,88440,No,No,No,117,house,Yes
+277644,54,88443,No,No,Yes,179,community,Yes
 277653,42,88445,No,No,Yes,110,house,No
 277654,40,88445,No,No,Yes,108,house,No
 277657,30,88446,No,No,Yes,128,work,No
@@ -39670,7 +39739,7 @@ patient_id,age,house_id,in_school,is_teacher,in_work,day_symptom_onset,infec_set
 278431,7,88688,Yes,No,No,113,school,No
 278438,49,88690,No,No,Yes,85,house,No
 278439,22,88690,Yes,No,No,82,school,No
-278461,26,88696,No,No,Yes,163,work,Yes
+278461,26,88696,No,No,Yes,163,work,No
 278465,68,88698,No,No,No,134,house,Yes
 278466,35,88698,No,No,Yes,128,house,Yes
 278467,18,88698,Yes,No,No,127,school,No
@@ -39910,6 +39979,7 @@ patient_id,age,house_id,in_school,is_teacher,in_work,day_symptom_onset,infec_set
 280112,43,89223,No,No,Yes,127,house,No
 280113,41,89223,No,No,Yes,123,work,Yes
 280119,20,89225,No,No,Yes,123,work,Yes
+280121,9,89225,Yes,No,No,179,school,Yes
 280133,16,89228,Yes,No,No,109,school,No
 280139,33,89229,No,No,No,98,house,Yes
 280141,14,89229,Yes,No,No,90,school,No
@@ -39953,7 +40023,7 @@ patient_id,age,house_id,in_school,is_teacher,in_work,day_symptom_onset,infec_set
 280314,16,89288,Yes,No,No,99,school,No
 280315,40,89289,No,No,Yes,120,work,Yes
 280320,13,89289,Yes,No,No,102,school,No
-280328,36,89292,No,No,Yes,168,work,No
+280328,36,89292,No,No,Yes,168,work,Yes
 280329,27,89292,Yes,No,No,83,school,No
 280349,9,89297,Yes,No,No,106,school,No
 280352,63,89299,No,No,No,103,house,No
@@ -40335,6 +40405,7 @@ patient_id,age,house_id,in_school,is_teacher,in_work,day_symptom_onset,infec_set
 282978,6,90154,Yes,No,No,102,school,No
 282979,29,90155,No,No,Yes,85,house,No
 282980,29,90155,Yes,No,No,80,school,No
+282983,24,90156,Yes,No,No,181,community,No
 282988,33,90158,No,No,Yes,134,house,Yes
 282991,10,90158,Yes,No,No,129,house,No
 282996,7,90158,Yes,No,No,119,school,Yes
@@ -40931,7 +41002,7 @@ patient_id,age,house_id,in_school,is_teacher,in_work,day_symptom_onset,infec_set
 286905,12,91425,Yes,No,No,135,school,No
 286917,27,91429,No,No,Yes,89,house,No
 286921,23,91430,Yes,No,No,76,school,Yes
-286925,49,91432,No,No,No,175,community,No
+286925,49,91432,No,No,No,175,community,Yes
 286926,39,91432,No,No,Yes,110,house,No
 286927,18,91432,No,No,Yes,104,work,Yes
 286929,12,91432,Yes,No,No,109,school,No
@@ -40988,7 +41059,7 @@ patient_id,age,house_id,in_school,is_teacher,in_work,day_symptom_onset,infec_set
 287257,78,91536,No,No,Yes,113,house,No
 287258,78,91536,No,No,No,112,community,Yes
 287266,48,91540,No,No,Yes,91,house,No
-287287,29,91546,No,No,Yes,167,community,Yes
+287287,29,91546,No,No,Yes,167,community,No
 287295,44,91549,No,No,Yes,104,work,No
 287296,48,91549,No,No,Yes,147,work,No
 287302,24,91551,No,No,Yes,104,work,No
@@ -41288,7 +41359,7 @@ patient_id,age,house_id,in_school,is_teacher,in_work,day_symptom_onset,infec_set
 289224,7,92162,Yes,No,No,99,school,No
 289225,3,92162,No,No,No,130,house,No
 289228,42,92164,No,No,Yes,174,house,Yes
-289231,39,92164,No,No,Yes,169,work,No
+289231,39,92164,No,No,Yes,169,work,Yes
 289234,44,92166,No,No,Yes,105,community,No
 289235,45,92166,Yes,Yes,No,115,school,No
 289240,11,92167,Yes,No,No,131,school,No
@@ -41852,6 +41923,7 @@ patient_id,age,house_id,in_school,is_teacher,in_work,day_symptom_onset,infec_set
 293177,22,93404,No,No,Yes,132,work,No
 293181,50,93406,No,No,Yes,94,work,No
 293182,44,93406,No,No,Yes,96,house,Yes
+293186,4,93407,No,No,No,180,house,No
 293187,43,93408,No,No,Yes,109,house,Yes
 293188,37,93408,No,No,Yes,105,house,No
 293190,7,93408,Yes,No,No,102,school,No
@@ -42319,6 +42391,7 @@ patient_id,age,house_id,in_school,is_teacher,in_work,day_symptom_onset,infec_set
 296645,46,94487,No,No,No,121,community,No
 296664,55,94493,Yes,Yes,No,96,school,Yes
 296710,13,94505,Yes,No,No,129,school,No
+296723,62,94509,No,No,Yes,182,work,Yes
 296737,19,94514,Yes,No,Yes,99,school,No
 296738,16,94514,Yes,No,No,132,school,No
 296751,14,94518,Yes,No,No,110,school,No
@@ -42359,7 +42432,7 @@ patient_id,age,house_id,in_school,is_teacher,in_work,day_symptom_onset,infec_set
 297056,19,94616,Yes,No,Yes,99,school,No
 297081,6,94624,Yes,No,No,93,school,No
 297084,25,94625,No,No,Yes,91,community,Yes
-297086,56,94626,No,No,Yes,167,work,Yes
+297086,56,94626,No,No,Yes,167,work,No
 297098,16,94630,Yes,No,No,108,house,No
 297100,11,94630,Yes,No,No,100,house,No
 297101,34,94630,No,No,Yes,105,house,No
@@ -42901,7 +42974,7 @@ patient_id,age,house_id,in_school,is_teacher,in_work,day_symptom_onset,infec_set
 301081,45,95891,No,No,Yes,78,house,No
 301085,41,95892,No,No,Yes,104,house,No
 301111,34,95900,Yes,No,No,132,school,No
-301121,72,95902,No,No,No,167,house,No
+301121,72,95902,No,No,No,167,house,Yes
 301122,65,95902,No,No,No,164,community,No
 301127,30,95904,No,No,No,89,house,No
 301130,5,95905,Yes,No,No,112,school,No
@@ -43061,7 +43134,7 @@ patient_id,age,house_id,in_school,is_teacher,in_work,day_symptom_onset,infec_set
 302237,32,96264,No,No,No,79,house,No
 302246,8,96266,Yes,No,No,61,school,Yes
 302254,32,96269,No,No,No,153,house,No
-302259,35,96272,Yes,Yes,No,169,school,Yes
+302259,35,96272,Yes,Yes,No,169,school,No
 302280,52,96278,No,No,Yes,95,house,No
 302284,16,96278,Yes,No,No,93,school,No
 302287,20,96279,Yes,No,No,36,school,No
@@ -43669,6 +43742,7 @@ patient_id,age,house_id,in_school,is_teacher,in_work,day_symptom_onset,infec_set
 306308,39,97557,No,No,Yes,112,house,No
 306309,39,97557,No,No,No,113,house,No
 306313,51,97559,No,No,No,86,community,Yes
+306341,44,97571,No,No,No,180,house,No
 306345,83,97572,No,No,No,108,community,Yes
 306360,61,97577,No,No,Yes,157,work,Yes
 306363,21,97578,Yes,No,Yes,102,school,No
@@ -43761,7 +43835,7 @@ patient_id,age,house_id,in_school,is_teacher,in_work,day_symptom_onset,infec_set
 306891,15,97749,Yes,No,No,96,school,Yes
 306910,25,97755,Yes,No,No,124,school,Yes
 306918,7,97757,Yes,No,No,107,school,Yes
-306924,54,97758,No,No,Yes,166,house,No
+306924,54,97758,No,No,Yes,166,house,Yes
 306944,40,97766,No,No,Yes,123,house,Yes
 306945,37,97766,No,No,Yes,124,house,Yes
 306948,9,97766,Yes,No,No,118,school,No
@@ -44218,7 +44292,7 @@ patient_id,age,house_id,in_school,is_teacher,in_work,day_symptom_onset,infec_set
 310228,64,98816,No,No,No,144,house,Yes
 310229,61,98816,No,No,Yes,139,work,No
 310234,13,98818,Yes,No,No,71,school,No
-310236,33,98818,No,No,Yes,173,work,No
+310236,33,98818,No,No,Yes,173,work,Yes
 310253,22,98825,Yes,No,No,108,community,No
 310255,33,98825,No,No,Yes,92,house,No
 310256,23,98825,Yes,No,Yes,87,school,No
@@ -44242,6 +44316,7 @@ patient_id,age,house_id,in_school,is_teacher,in_work,day_symptom_onset,infec_set
 310428,62,98878,No,No,Yes,89,work,No
 310433,41,98880,Yes,No,No,103,house,No
 310438,9,98880,Yes,No,No,104,house,Yes
+310447,53,98883,No,No,Yes,176,work,No
 310451,17,98884,Yes,No,No,70,community,No
 310453,15,98884,Yes,No,No,113,school,No
 310463,37,98889,No,No,Yes,103,house,No
@@ -44372,6 +44447,7 @@ patient_id,age,house_id,in_school,is_teacher,in_work,day_symptom_onset,infec_set
 311351,47,99167,Yes,Yes,No,105,school,Yes
 311352,49,99167,No,No,No,108,house,No
 311356,47,99169,No,No,Yes,171,house,Yes
+311357,43,99169,No,No,No,177,house,No
 311376,50,99174,No,No,Yes,140,work,No
 311383,17,99176,Yes,No,No,85,school,No
 311388,54,99178,No,No,Yes,77,community,No
@@ -44413,6 +44489,7 @@ patient_id,age,house_id,in_school,is_teacher,in_work,day_symptom_onset,infec_set
 311677,9,99266,Yes,No,No,101,school,No
 311683,14,99268,Yes,No,No,108,school,No
 311693,47,99273,No,No,Yes,136,house,No
+311703,23,99276,No,No,Yes,179,work,No
 311708,21,99277,Yes,No,Yes,95,school,No
 311712,24,99278,Yes,No,No,131,house,Yes
 311713,20,99278,Yes,No,No,110,school,Yes
@@ -44511,6 +44588,7 @@ patient_id,age,house_id,in_school,is_teacher,in_work,day_symptom_onset,infec_set
 312388,6,99497,Yes,No,No,121,school,No
 312408,43,99503,Yes,No,No,118,school,No
 312436,33,99512,No,No,Yes,160,work,Yes
+312447,33,99515,No,No,Yes,179,work,Yes
 312455,56,99517,No,No,Yes,121,community,No
 312460,6,99518,Yes,No,No,101,school,No
 312469,36,99521,No,No,Yes,87,house,No
@@ -44574,6 +44652,7 @@ patient_id,age,house_id,in_school,is_teacher,in_work,day_symptom_onset,infec_set
 312792,39,99611,No,No,Yes,122,work,No
 312794,0,99611,No,No,No,130,house,No
 312795,57,99612,No,No,Yes,135,work,Yes
+312800,58,99614,No,No,Yes,180,work,Yes
 312819,31,99620,Yes,No,Yes,125,work,No
 312821,4,99620,Yes,No,No,107,school,No
 312825,55,99621,No,No,Yes,124,work,No
@@ -44883,6 +44962,7 @@ patient_id,age,house_id,in_school,is_teacher,in_work,day_symptom_onset,infec_set
 314807,5,100239,Yes,No,No,113,school,No
 314809,47,100240,No,No,Yes,123,work,Yes
 314817,16,100242,Yes,No,No,96,school,No
+314822,53,100244,No,No,Yes,177,community,No
 314832,6,100247,Yes,No,No,112,school,No
 314849,27,100254,Yes,No,No,116,school,No
 314858,9,100255,Yes,No,No,133,school,No
@@ -44960,7 +45040,7 @@ patient_id,age,house_id,in_school,is_teacher,in_work,day_symptom_onset,infec_set
 315391,61,100430,No,No,Yes,120,community,Yes
 315394,62,100431,No,No,Yes,100,work,Yes
 315405,1,100435,No,No,No,109,house,No
-315407,44,100436,No,No,Yes,166,work,No
+315407,44,100436,No,No,Yes,166,work,Yes
 315417,31,100439,No,No,Yes,110,house,No
 315418,41,100440,No,No,Yes,100,house,No
 315420,17,100440,Yes,No,No,97,school,No
@@ -45063,6 +45143,7 @@ patient_id,age,house_id,in_school,is_teacher,in_work,day_symptom_onset,infec_set
 316161,1,100682,No,No,No,131,house,No
 316169,66,100686,No,No,Yes,125,work,No
 316177,13,100689,Yes,No,No,85,school,No
+316181,72,100691,No,No,No,179,house,No
 316183,52,100691,No,No,Yes,170,work,No
 316189,9,100693,Yes,No,No,100,school,No
 316210,47,100700,No,No,Yes,78,house,No
@@ -45614,6 +45695,7 @@ patient_id,age,house_id,in_school,is_teacher,in_work,day_symptom_onset,infec_set
 319943,19,101875,No,No,Yes,101,work,No
 319944,37,101875,Yes,Yes,No,133,school,No
 319950,60,101878,No,No,Yes,123,house,No
+319959,55,101880,No,No,Yes,179,house,No
 319968,62,101884,No,No,Yes,87,community,No
 319973,30,101887,No,No,No,141,house,No
 319974,30,101887,Yes,No,No,128,school,No
@@ -45936,7 +46018,7 @@ patient_id,age,house_id,in_school,is_teacher,in_work,day_symptom_onset,infec_set
 322041,12,102541,Yes,No,No,84,school,No
 322051,42,102545,No,No,Yes,168,house,No
 322052,8,102545,Yes,No,No,115,school,No
-322053,2,102545,No,No,No,170,house,Yes
+322053,2,102545,No,No,No,170,house,No
 322057,51,102547,No,No,Yes,111,work,No
 322063,21,102548,Yes,No,No,111,school,No
 322066,44,102550,Yes,No,No,116,house,No
@@ -46114,6 +46196,7 @@ patient_id,age,house_id,in_school,is_teacher,in_work,day_symptom_onset,infec_set
 323271,33,102939,No,No,Yes,113,house,No
 323272,12,102939,Yes,No,No,109,school,No
 323278,3,102941,No,No,No,100,house,No
+323282,44,102942,No,No,Yes,175,house,No
 323284,7,102942,Yes,No,No,174,house,No
 323286,46,102943,No,No,Yes,126,house,Yes
 323287,44,102943,No,No,Yes,115,house,No
@@ -46173,11 +46256,13 @@ patient_id,age,house_id,in_school,is_teacher,in_work,day_symptom_onset,infec_set
 323609,45,103043,No,No,Yes,128,house,No
 323610,45,103043,No,No,Yes,135,house,No
 323612,15,103043,No,No,No,128,community,No
+323615,79,103044,No,No,Yes,176,work,Yes
 323618,56,103045,No,No,Yes,119,work,No
 323621,58,103046,No,No,Yes,76,community,No
 323628,49,103049,No,No,Yes,128,house,No
-323632,59,103050,No,No,Yes,171,house,Yes
-323633,55,103050,No,No,Yes,174,house,No
+323632,59,103050,No,No,Yes,171,house,No
+323633,55,103050,No,No,Yes,174,house,Yes
+323635,21,103050,No,No,Yes,178,house,No
 323636,40,103051,No,No,No,55,house,No
 323637,44,103051,No,No,Yes,69,house,No
 323639,8,103051,Yes,No,No,63,house,Yes
@@ -46297,6 +46382,7 @@ patient_id,age,house_id,in_school,is_teacher,in_work,day_symptom_onset,infec_set
 324474,20,103318,No,No,Yes,109,work,No
 324487,47,103323,Yes,No,No,127,school,Yes
 324495,1,103326,No,No,No,148,house,No
+324497,57,103327,No,No,Yes,178,work,No
 324499,47,103328,No,No,Yes,123,house,Yes
 324501,20,103328,No,No,Yes,112,work,No
 324502,16,103328,Yes,No,Yes,122,school,No
@@ -46504,6 +46590,7 @@ patient_id,age,house_id,in_school,is_teacher,in_work,day_symptom_onset,infec_set
 325946,58,103798,No,No,Yes,117,work,Yes
 325959,4,103803,No,No,No,112,community,No
 325961,38,103804,Yes,No,Yes,81,school,Yes
+325968,34,103806,No,No,Yes,180,work,No
 325975,42,103808,No,No,Yes,96,house,No
 325985,40,103810,No,No,Yes,122,house,Yes
 325986,16,103810,Yes,No,No,116,school,No
@@ -47487,6 +47574,7 @@ patient_id,age,house_id,in_school,is_teacher,in_work,day_symptom_onset,infec_set
 333096,36,106090,No,No,Yes,82,work,No
 333098,8,106090,Yes,No,No,130,school,No
 333119,14,106099,Yes,No,No,112,school,Yes
+333135,46,106104,No,No,Yes,176,house,No
 333136,34,106105,No,No,Yes,124,house,No
 333137,9,106105,Yes,No,No,118,school,No
 333138,25,106105,No,No,Yes,123,house,No
@@ -48023,7 +48111,8 @@ patient_id,age,house_id,in_school,is_teacher,in_work,day_symptom_onset,infec_set
 336580,45,107215,No,No,Yes,97,work,Yes
 336581,56,107215,No,No,No,108,house,No
 336597,15,107221,Yes,No,No,85,school,No
-336619,17,107227,No,No,Yes,169,work,No
+336616,28,107227,No,No,Yes,180,house,No
+336619,17,107227,No,No,Yes,169,work,Yes
 336627,15,107230,Yes,No,No,67,school,No
 336629,43,107231,No,No,Yes,116,house,No
 336631,17,107231,Yes,No,No,107,school,No
@@ -49102,7 +49191,7 @@ patient_id,age,house_id,in_school,is_teacher,in_work,day_symptom_onset,infec_set
 343790,12,109500,Yes,No,No,143,house,No
 343792,5,109500,Yes,No,No,140,house,Yes
 343794,8,109501,Yes,No,No,128,school,No
-343797,72,109503,No,No,Yes,167,work,Yes
+343797,72,109503,No,No,Yes,167,work,No
 343806,6,109505,Yes,No,No,92,school,No
 343810,57,109507,No,No,Yes,117,community,No
 343812,49,109508,No,No,Yes,129,house,Yes
@@ -49224,7 +49313,7 @@ patient_id,age,house_id,in_school,is_teacher,in_work,day_symptom_onset,infec_set
 344547,15,109734,Yes,No,No,124,school,No
 344550,15,109735,Yes,No,No,147,house,No
 344579,55,109747,No,No,Yes,132,community,Yes
-344613,58,109758,No,No,No,169,community,Yes
+344613,58,109758,No,No,No,169,community,No
 344626,48,109762,No,No,No,137,house,No
 344627,13,109762,Yes,No,No,134,school,Yes
 344630,40,109763,No,No,Yes,134,house,No
@@ -49650,7 +49739,7 @@ patient_id,age,house_id,in_school,is_teacher,in_work,day_symptom_onset,infec_set
 347568,42,110704,No,No,Yes,135,work,No
 347576,61,110706,No,No,Yes,90,work,No
 347580,50,110708,No,No,Yes,166,work,No
-347581,47,110708,No,No,Yes,170,house,No
+347581,47,110708,No,No,Yes,170,house,Yes
 347596,9,110713,No,No,No,81,house,No
 347625,8,110722,Yes,No,No,121,school,Yes
 347644,34,110729,Yes,No,No,111,school,No
@@ -49960,7 +50049,7 @@ patient_id,age,house_id,in_school,is_teacher,in_work,day_symptom_onset,infec_set
 349920,50,111476,No,No,Yes,118,house,No
 349923,19,111476,Yes,No,No,111,community,No
 349925,50,111477,No,No,Yes,159,community,No
-349926,57,111477,No,No,Yes,172,house,Yes
+349926,57,111477,No,No,Yes,172,house,No
 349930,41,111479,Yes,No,No,71,school,No
 349947,49,111484,No,No,Yes,112,work,Yes
 349949,38,111485,No,No,Yes,108,house,Yes
@@ -49983,7 +50072,7 @@ patient_id,age,house_id,in_school,is_teacher,in_work,day_symptom_onset,infec_set
 350155,53,111550,No,No,Yes,105,house,Yes
 350156,47,111550,No,No,Yes,121,house,No
 350157,17,111550,Yes,No,No,94,school,No
-350167,60,111554,No,No,Yes,168,community,No
+350167,60,111554,No,No,Yes,168,community,Yes
 350170,36,111555,Yes,No,No,133,school,No
 350186,21,111559,No,No,Yes,122,community,No
 350188,54,111560,No,No,Yes,76,house,Yes
@@ -50388,7 +50477,7 @@ patient_id,age,house_id,in_school,is_teacher,in_work,day_symptom_onset,infec_set
 352960,29,112443,No,No,No,135,house,Yes
 352966,55,112446,No,No,No,106,community,No
 352986,62,112455,No,No,No,148,community,No
-352993,51,112458,No,No,Yes,171,community,No
+352993,51,112458,No,No,Yes,171,community,Yes
 352994,48,112458,Yes,No,No,174,house,No
 352995,8,112458,Yes,No,No,129,school,No
 352997,36,112459,Yes,No,No,44,house,No
@@ -50420,7 +50509,7 @@ patient_id,age,house_id,in_school,is_teacher,in_work,day_symptom_onset,infec_set
 353139,30,112505,No,No,Yes,159,house,No
 353150,42,112509,No,No,Yes,102,work,No
 353153,20,112509,No,No,Yes,112,house,No
-353154,70,112509,No,No,No,167,community,Yes
+353154,70,112509,No,No,No,167,community,No
 353158,39,112511,No,No,Yes,110,house,No
 353163,77,112513,No,No,No,158,community,Yes
 353167,48,112513,No,No,Yes,127,work,No
@@ -50828,6 +50917,7 @@ patient_id,age,house_id,in_school,is_teacher,in_work,day_symptom_onset,infec_set
 355977,47,113411,No,No,Yes,78,house,Yes
 355981,33,113413,No,No,Yes,107,house,No
 355982,7,113413,Yes,No,No,97,school,No
+355986,37,113415,No,No,Yes,178,work,No
 355988,7,113415,Yes,No,No,97,school,No
 355989,47,113416,Yes,No,No,91,school,Yes
 355990,54,113416,No,No,Yes,92,house,No
@@ -51060,6 +51150,7 @@ patient_id,age,house_id,in_school,is_teacher,in_work,day_symptom_onset,infec_set
 357470,41,113881,No,No,Yes,109,community,No
 357472,16,113881,Yes,No,No,99,school,No
 357473,13,113881,Yes,No,No,82,school,No
+357478,61,113883,No,No,Yes,175,community,No
 357479,68,113883,No,No,No,119,community,No
 357494,43,113888,No,No,Yes,116,house,No
 357498,50,113889,No,No,Yes,91,house,No
@@ -51919,6 +52010,7 @@ patient_id,age,house_id,in_school,is_teacher,in_work,day_symptom_onset,infec_set
 363664,9,115842,Yes,No,No,115,house,No
 363667,13,115843,Yes,No,No,97,school,Yes
 363669,9,115843,Yes,No,No,63,school,No
+363696,26,115853,No,No,Yes,175,community,No
 363699,73,115854,No,No,No,89,house,No
 363701,17,115854,Yes,No,No,99,house,No
 363702,15,115854,Yes,No,No,84,school,No
@@ -52308,7 +52400,7 @@ patient_id,age,house_id,in_school,is_teacher,in_work,day_symptom_onset,infec_set
 366667,54,116804,Yes,Yes,No,116,school,No
 366678,6,116807,Yes,No,No,96,school,No
 366687,13,116808,Yes,No,No,134,school,No
-366689,57,116809,No,No,No,167,house,Yes
+366689,57,116809,No,No,No,167,house,No
 366692,9,116809,Yes,No,No,130,school,Yes
 366694,14,116810,Yes,No,No,89,school,No
 366703,32,116813,Yes,No,No,105,house,Yes
@@ -52419,6 +52511,7 @@ patient_id,age,house_id,in_school,is_teacher,in_work,day_symptom_onset,infec_set
 367545,8,117096,Yes,No,No,114,school,No
 367555,15,117099,Yes,No,No,106,school,Yes
 367557,40,117100,No,No,No,116,house,No
+367558,38,117100,No,No,Yes,177,work,No
 367560,9,117100,Yes,No,No,106,school,Yes
 367570,33,117103,No,No,Yes,89,work,Yes
 367578,51,117105,No,No,Yes,107,community,No
@@ -52447,6 +52540,7 @@ patient_id,age,house_id,in_school,is_teacher,in_work,day_symptom_onset,infec_set
 367696,22,117140,No,No,Yes,134,house,Yes
 367706,10,117143,Yes,No,No,39,school,No
 367713,45,117146,No,No,Yes,131,work,Yes
+367729,31,117150,No,No,Yes,176,house,No
 367740,62,117154,No,No,Yes,55,work,Yes
 367741,21,117154,Yes,No,No,62,house,Yes
 367742,25,117155,No,No,Yes,79,house,No
@@ -52751,7 +52845,8 @@ patient_id,age,house_id,in_school,is_teacher,in_work,day_symptom_onset,infec_set
 369745,13,117786,Yes,No,No,119,school,No
 369752,61,117789,No,No,No,95,house,Yes
 369753,61,117789,No,No,No,101,house,No
-369765,82,117793,No,No,No,173,house,No
+369763,51,117793,No,No,No,178,house,No
+369765,82,117793,No,No,No,173,house,Yes
 369777,52,117797,No,No,Yes,75,house,No
 369778,55,117797,No,No,Yes,67,community,No
 369788,29,117801,No,No,Yes,104,house,No
@@ -52788,7 +52883,7 @@ patient_id,age,house_id,in_school,is_teacher,in_work,day_symptom_onset,infec_set
 370002,45,117874,No,No,No,122,house,No
 370023,32,117882,No,No,Yes,162,work,No
 370025,6,117882,Yes,No,No,70,school,No
-370026,4,117882,No,No,No,173,house,Yes
+370026,4,117882,No,No,No,173,house,No
 370039,33,117886,Yes,Yes,No,76,school,No
 370044,16,117888,Yes,No,No,102,school,No
 370045,7,117888,Yes,No,No,79,school,No
@@ -52983,6 +53078,7 @@ patient_id,age,house_id,in_school,is_teacher,in_work,day_symptom_onset,infec_set
 371394,15,118319,Yes,No,No,82,school,No
 371395,7,118319,Yes,No,No,92,school,No
 371407,21,118323,Yes,No,No,117,school,No
+371419,54,118329,No,No,Yes,179,house,No
 371435,65,118336,No,No,No,119,house,No
 371436,62,118336,No,No,Yes,126,house,Yes
 371437,47,118336,No,No,Yes,119,house,Yes
@@ -53132,7 +53228,7 @@ patient_id,age,house_id,in_school,is_teacher,in_work,day_symptom_onset,infec_set
 372347,31,118635,No,No,Yes,91,house,No
 372367,11,118640,Yes,No,No,126,school,No
 372371,6,118641,Yes,No,No,118,school,No
-372372,49,118642,No,No,Yes,169,house,Yes
+372372,49,118642,No,No,Yes,169,house,No
 372373,47,118642,No,No,Yes,165,work,No
 372389,77,118646,No,No,No,106,house,No
 372395,3,118648,Yes,No,No,91,school,No
@@ -53355,7 +53451,7 @@ patient_id,age,house_id,in_school,is_teacher,in_work,day_symptom_onset,infec_set
 373910,35,119122,No,No,Yes,149,house,No
 373911,34,119122,No,No,Yes,148,work,No
 373912,3,119122,No,No,No,151,house,No
-373918,37,119125,No,No,Yes,173,work,Yes
+373918,37,119125,No,No,Yes,173,work,No
 373925,28,119126,No,No,Yes,166,work,No
 373934,27,119128,No,No,Yes,112,work,No
 373935,76,119129,No,No,Yes,86,work,No
@@ -53949,7 +54045,7 @@ patient_id,age,house_id,in_school,is_teacher,in_work,day_symptom_onset,infec_set
 377863,18,120361,Yes,No,No,40,school,No
 377878,13,120366,Yes,No,No,104,school,No
 377880,49,120367,No,No,Yes,157,house,No
-377883,78,120367,No,No,No,163,house,No
+377883,78,120367,No,No,No,163,house,Yes
 377886,6,120368,Yes,No,No,109,school,No
 377887,4,120368,No,No,No,117,house,No
 377900,14,120371,Yes,No,No,69,school,No
@@ -54105,6 +54201,7 @@ patient_id,age,house_id,in_school,is_teacher,in_work,day_symptom_onset,infec_set
 379101,19,120763,Yes,No,No,83,school,No
 379104,18,120764,Yes,No,No,100,school,No
 379109,27,120766,No,No,Yes,112,work,Yes
+379110,25,120766,No,No,Yes,182,community,No
 379121,4,120769,Yes,No,No,106,house,No
 379130,6,120773,Yes,No,No,103,house,No
 379132,32,120774,No,No,No,93,house,No
@@ -54345,6 +54442,7 @@ patient_id,age,house_id,in_school,is_teacher,in_work,day_symptom_onset,infec_set
 380828,64,121313,Yes,Yes,No,94,school,No
 380829,64,121313,No,No,No,90,community,No
 380833,42,121315,No,No,Yes,112,house,Yes
+380849,59,121320,No,No,Yes,180,work,No
 380857,43,121322,No,No,Yes,103,house,Yes
 380858,37,121322,No,No,Yes,83,house,Yes
 380859,9,121322,Yes,No,No,82,house,No
@@ -54368,6 +54466,7 @@ patient_id,age,house_id,in_school,is_teacher,in_work,day_symptom_onset,infec_set
 381015,4,121376,Yes,No,No,85,house,No
 381020,65,121379,No,No,No,169,house,No
 381021,63,121379,No,No,Yes,110,work,Yes
+381024,3,121379,Yes,No,No,176,house,No
 381028,13,121380,Yes,No,No,83,school,No
 381045,53,121386,No,No,Yes,130,house,No
 381064,51,121393,Yes,No,No,109,school,No
@@ -54454,6 +54553,7 @@ patient_id,age,house_id,in_school,is_teacher,in_work,day_symptom_onset,infec_set
 381641,61,121577,No,No,Yes,104,house,Yes
 381642,51,121577,No,No,Yes,100,work,No
 381643,37,121577,Yes,Yes,No,127,school,Yes
+381647,46,121579,No,No,Yes,180,work,No
 381651,10,121580,Yes,No,No,139,house,No
 381657,60,121582,No,No,No,135,community,Yes
 381664,56,121585,No,No,Yes,139,house,No
@@ -55567,6 +55667,7 @@ patient_id,age,house_id,in_school,is_teacher,in_work,day_symptom_onset,infec_set
 389270,7,124025,Yes,No,No,92,school,Yes
 389275,35,124026,Yes,Yes,No,97,school,No
 389278,32,124028,No,No,No,110,house,No
+389284,15,124029,Yes,No,No,180,school,No
 389285,34,124030,No,No,Yes,129,house,No
 389290,46,124032,No,No,Yes,123,house,No
 389294,18,124033,Yes,No,No,100,school,No
@@ -56278,7 +56379,7 @@ patient_id,age,house_id,in_school,is_teacher,in_work,day_symptom_onset,infec_set
 394318,10,125651,Yes,No,No,150,school,Yes
 394327,25,125654,No,No,Yes,139,work,No
 394334,33,125656,Yes,Yes,No,88,school,No
-394338,59,125657,No,No,Yes,172,house,No
+394338,59,125657,No,No,Yes,172,house,Yes
 394345,38,125658,No,No,Yes,110,work,No
 394346,71,125659,No,No,No,108,house,No
 394347,34,125659,No,No,Yes,104,work,No
@@ -56385,6 +56486,7 @@ patient_id,age,house_id,in_school,is_teacher,in_work,day_symptom_onset,infec_set
 395146,40,125919,Yes,No,No,102,house,Yes
 395148,10,125919,Yes,No,No,103,house,No
 395149,15,125919,Yes,No,No,97,house,No
+395154,64,125921,No,No,No,179,house,No
 395155,59,125921,No,No,No,174,house,No
 395156,37,125921,No,No,Yes,174,house,No
 395167,31,125924,No,No,Yes,133,house,No
@@ -56942,14 +57044,14 @@ patient_id,age,house_id,in_school,is_teacher,in_work,day_symptom_onset,infec_set
 399272,58,127216,No,No,Yes,74,work,Yes
 399279,51,127217,No,No,Yes,99,house,No
 399280,60,127218,Yes,Yes,No,150,school,Yes
-399281,55,127218,No,No,No,167,house,No
+399281,55,127218,No,No,No,167,house,Yes
 399295,16,127223,Yes,No,No,122,school,Yes
 399303,56,127226,No,No,Yes,96,work,No
 399304,41,127226,No,No,Yes,133,work,No
 399323,53,127231,No,No,Yes,165,house,No
 399331,4,127233,Yes,No,No,104,school,Yes
 399352,6,127240,Yes,No,No,73,school,No
-399357,84,127242,No,No,No,166,house,No
+399357,84,127242,No,No,No,166,house,Yes
 399358,36,127242,No,No,Yes,165,work,No
 399361,28,127243,No,No,Yes,116,community,No
 399374,26,127248,No,No,Yes,128,work,No
@@ -57058,6 +57160,7 @@ patient_id,age,house_id,in_school,is_teacher,in_work,day_symptom_onset,infec_set
 400257,34,127527,No,No,No,116,house,No
 400272,50,127531,No,No,Yes,71,house,No
 400278,73,127533,No,No,No,155,community,No
+400285,15,127536,Yes,No,No,181,house,No
 400314,46,127546,No,No,Yes,106,house,Yes
 400318,43,127547,No,No,Yes,128,house,No
 400320,23,127547,No,No,Yes,149,house,No
@@ -57106,6 +57209,7 @@ patient_id,age,house_id,in_school,is_teacher,in_work,day_symptom_onset,infec_set
 400650,10,127650,Yes,No,No,93,house,No
 400667,41,127656,No,No,Yes,90,house,No
 400672,76,127658,No,No,No,132,community,No
+400724,65,127676,No,No,No,180,community,No
 400741,66,127682,Yes,Yes,No,118,school,No
 400752,58,127686,No,No,Yes,125,work,No
 400759,63,127689,No,No,No,114,community,No
@@ -58398,6 +58502,8 @@ patient_id,age,house_id,in_school,is_teacher,in_work,day_symptom_onset,infec_set
 410266,75,130718,No,No,No,115,house,Yes
 410268,26,130718,No,No,Yes,111,work,No
 410279,55,130722,No,No,Yes,172,work,No
+410282,11,130722,Yes,No,No,181,house,No
+410283,79,130722,No,No,No,179,house,Yes
 410319,59,130734,No,No,Yes,58,house,No
 410320,27,130734,Yes,No,Yes,122,school,Yes
 410321,30,130734,No,No,Yes,53,work,No
@@ -58405,7 +58511,7 @@ patient_id,age,house_id,in_school,is_teacher,in_work,day_symptom_onset,infec_set
 410344,20,130742,Yes,No,No,110,school,No
 410356,31,130745,Yes,No,No,91,school,No
 410369,57,130751,No,No,Yes,172,house,Yes
-410370,49,130751,No,No,Yes,166,work,Yes
+410370,49,130751,No,No,Yes,166,work,No
 410403,60,130764,Yes,Yes,No,124,school,No
 410429,56,130773,No,No,Yes,83,house,No
 410438,59,130775,No,No,Yes,88,work,No
@@ -58421,6 +58527,7 @@ patient_id,age,house_id,in_school,is_teacher,in_work,day_symptom_onset,infec_set
 410507,51,130797,No,No,Yes,135,work,Yes
 410515,78,130799,No,No,No,69,house,No
 410518,23,130799,No,No,Yes,72,house,No
+410520,77,130800,No,No,No,180,house,No
 410521,79,130800,No,No,No,168,community,No
 410529,31,130803,No,No,No,164,house,No
 410533,61,130805,No,No,Yes,80,house,No
@@ -58563,7 +58670,7 @@ patient_id,age,house_id,in_school,is_teacher,in_work,day_symptom_onset,infec_set
 411435,60,131080,No,No,Yes,73,work,No
 411453,56,131087,No,No,Yes,116,community,No
 411457,62,131089,No,No,Yes,171,house,No
-411458,63,131089,No,No,Yes,167,house,No
+411458,63,131089,No,No,Yes,167,house,Yes
 411473,3,131093,No,No,No,121,house,No
 411478,56,131095,No,No,Yes,138,work,No
 411498,31,131101,No,No,Yes,128,work,No
@@ -58656,6 +58763,7 @@ patient_id,age,house_id,in_school,is_teacher,in_work,day_symptom_onset,infec_set
 412249,25,131338,No,No,Yes,147,work,Yes
 412268,62,131344,No,No,No,133,community,No
 412272,60,131346,No,No,Yes,89,community,No
+412279,58,131349,No,No,Yes,177,house,No
 412281,54,131350,No,No,Yes,124,work,No
 412283,22,131350,Yes,No,Yes,55,school,No
 412288,30,131351,Yes,No,No,86,school,No
@@ -58925,6 +59033,7 @@ patient_id,age,house_id,in_school,is_teacher,in_work,day_symptom_onset,infec_set
 414392,62,132027,No,No,Yes,110,community,No
 414393,56,132028,No,No,No,139,house,No
 414394,55,132028,No,No,Yes,56,work,Yes
+414401,33,132030,No,No,Yes,178,work,No
 414416,20,132034,Yes,No,No,91,school,No
 414428,60,132038,No,No,No,98,community,No
 414430,24,132038,No,No,Yes,134,work,No
@@ -59598,6 +59707,7 @@ patient_id,age,house_id,in_school,is_teacher,in_work,day_symptom_onset,infec_set
 420078,63,133779,No,No,Yes,99,house,Yes
 420079,63,133779,No,No,Yes,102,house,No
 420088,58,133782,No,No,Yes,89,work,No
+420093,63,133784,No,No,Yes,178,work,No
 420102,64,133787,No,No,Yes,98,community,Yes
 420135,62,133798,No,No,No,137,house,Yes
 420136,53,133798,No,No,No,138,house,No
@@ -59787,6 +59897,7 @@ patient_id,age,house_id,in_school,is_teacher,in_work,day_symptom_onset,infec_set
 422190,51,135430,Yes,No,No,60,school,No
 422198,23,135438,No,No,Yes,86,work,Yes
 422206,23,135444,No,No,Yes,131,community,No
+422211,31,135449,No,No,Yes,178,house,No
 422214,22,135450,Yes,No,No,118,house,No
 422228,24,135463,No,No,Yes,106,house,No
 422229,22,135463,No,No,Yes,113,house,No
@@ -59805,6 +59916,7 @@ patient_id,age,house_id,in_school,is_teacher,in_work,day_symptom_onset,infec_set
 422443,18,135634,Yes,No,No,120,school,No
 422447,47,135638,No,No,Yes,118,work,No
 422453,58,135643,No,No,Yes,125,work,Yes
+422455,57,135644,No,No,Yes,178,work,No
 422456,29,135645,No,No,Yes,106,work,No
 422469,61,135656,No,No,Yes,128,house,Yes
 422473,51,135659,No,No,Yes,113,work,No
@@ -59986,6 +60098,7 @@ patient_id,age,house_id,in_school,is_teacher,in_work,day_symptom_onset,infec_set
 424632,38,137438,No,No,Yes,123,community,Yes
 424641,18,137442,Yes,No,No,110,house,No
 424660,58,137458,No,No,Yes,140,work,No
+424670,54,137466,No,No,Yes,180,community,No
 424673,81,137469,No,No,No,121,community,No
 424700,44,137495,No,No,Yes,139,work,No
 424703,30,137497,No,No,Yes,101,work,No
@@ -60066,6 +60179,7 @@ patient_id,age,house_id,in_school,is_teacher,in_work,day_symptom_onset,infec_set
 425644,47,138260,Yes,Yes,No,100,school,No
 425660,22,138272,No,No,Yes,109,house,No
 425662,81,138274,No,No,No,123,community,No
+425663,57,138275,No,No,Yes,180,work,No
 425666,29,138278,Yes,Yes,No,84,school,No
 425671,38,138283,Yes,Yes,No,107,school,No
 425716,61,138321,No,No,Yes,111,work,No
@@ -60391,7 +60505,7 @@ patient_id,age,house_id,in_school,is_teacher,in_work,day_symptom_onset,infec_set
 429302,57,141200,Yes,Yes,No,136,school,No
 429331,44,141226,Yes,No,No,65,school,No
 429341,50,141231,No,No,Yes,136,work,No
-429352,42,141239,No,No,Yes,168,work,Yes
+429352,42,141239,No,No,Yes,168,work,No
 429358,54,141244,No,No,Yes,105,work,No
 429363,33,141249,No,No,Yes,129,work,No
 429376,31,141261,Yes,No,No,93,school,Yes
@@ -60596,6 +60710,7 @@ patient_id,age,house_id,in_school,is_teacher,in_work,day_symptom_onset,infec_set
 431607,35,143026,No,No,Yes,91,work,No
 431641,20,143056,Yes,No,No,65,community,No
 431646,45,143059,Yes,Yes,No,113,school,Yes
+431652,35,143065,No,No,Yes,176,work,No
 431671,61,143078,No,No,Yes,143,work,No
 431674,44,143081,No,No,Yes,157,work,No
 431676,25,143082,No,No,Yes,146,work,Yes
@@ -61772,7 +61887,7 @@ patient_id,age,house_id,in_school,is_teacher,in_work,day_symptom_onset,infec_set
 444350,21,153198,Yes,No,No,127,school,No
 444362,23,153209,No,No,Yes,113,work,No
 444383,75,153224,No,No,No,136,community,No
-444388,54,153227,No,No,Yes,168,work,Yes
+444388,54,153227,No,No,Yes,168,work,No
 444397,45,153235,Yes,No,No,103,school,Yes
 444402,24,153240,Yes,No,No,72,school,No
 444408,41,153246,No,No,No,157,community,No
@@ -63355,6 +63470,7 @@ patient_id,age,house_id,in_school,is_teacher,in_work,day_symptom_onset,infec_set
 462356,36,167681,No,No,No,96,community,No
 462361,34,167685,No,No,Yes,139,work,Yes
 462390,57,167709,No,No,Yes,98,work,Yes
+462396,63,167714,No,No,No,175,community,No
 462397,48,167715,No,No,Yes,142,house,No
 462426,71,167740,No,No,Yes,99,community,Yes
 462463,40,167771,No,No,Yes,129,work,No
@@ -63677,7 +63793,7 @@ patient_id,age,house_id,in_school,is_teacher,in_work,day_symptom_onset,infec_set
 465771,56,170403,No,No,Yes,99,work,Yes
 465775,51,170406,No,No,Yes,152,work,No
 465787,32,170414,Yes,No,No,88,school,Yes
-465788,23,170415,No,No,Yes,173,community,Yes
+465788,23,170415,No,No,Yes,173,community,No
 465806,48,170430,No,No,Yes,70,work,No
 465842,42,170461,Yes,Yes,No,100,school,Yes
 465856,24,170472,Yes,No,No,71,house,No
@@ -63692,7 +63808,7 @@ patient_id,age,house_id,in_school,is_teacher,in_work,day_symptom_onset,infec_set
 465935,86,170530,No,No,Yes,99,work,Yes
 465943,21,170535,Yes,No,No,83,school,No
 465948,67,170540,No,No,No,125,community,No
-465953,29,170545,Yes,Yes,No,166,school,No
+465953,29,170545,Yes,Yes,No,166,school,Yes
 465955,24,170547,Yes,No,No,134,school,No
 465961,49,170552,No,No,Yes,95,work,No
 465974,32,170561,Yes,Yes,No,143,school,No
@@ -63712,7 +63828,7 @@ patient_id,age,house_id,in_school,is_teacher,in_work,day_symptom_onset,infec_set
 466131,26,170689,Yes,Yes,No,94,school,No
 466137,53,170694,Yes,No,No,79,school,Yes
 466150,70,170703,No,No,No,121,community,No
-466159,56,170711,No,No,Yes,174,community,No
+466159,56,170711,No,No,Yes,174,community,Yes
 466172,32,170723,Yes,No,No,62,school,Yes
 466209,61,170756,No,No,No,124,community,Yes
 466216,47,170763,No,No,Yes,71,work,No
@@ -64585,6 +64701,7 @@ patient_id,age,house_id,in_school,is_teacher,in_work,day_symptom_onset,infec_set
 476099,20,178639,No,No,Yes,128,house,No
 476116,25,178654,Yes,Yes,No,97,school,No
 476120,47,178657,No,No,Yes,127,work,No
+476141,29,178675,No,No,Yes,181,house,Yes
 476146,39,178678,Yes,No,No,113,school,No
 476151,72,178681,No,No,No,115,community,No
 476157,20,178685,Yes,No,No,65,school,Yes
@@ -64871,7 +64988,7 @@ patient_id,age,house_id,in_school,is_teacher,in_work,day_symptom_onset,infec_set
 479026,26,180957,No,No,Yes,133,house,No
 479029,50,180960,No,No,Yes,132,community,No
 479031,45,180961,No,No,Yes,130,house,No
-479033,47,180963,No,No,Yes,168,work,No
+479033,47,180963,No,No,Yes,168,work,Yes
 479043,34,180971,Yes,No,No,117,school,No
 479045,61,180973,No,No,Yes,77,work,No
 479058,30,180982,No,No,Yes,103,house,No
@@ -65134,7 +65251,7 @@ patient_id,age,house_id,in_school,is_teacher,in_work,day_symptom_onset,infec_set
 482131,26,183470,No,No,Yes,48,work,Yes
 482134,24,183472,Yes,No,No,60,school,No
 482138,22,183475,No,No,Yes,137,work,No
-482159,47,183494,No,No,Yes,172,work,No
+482159,47,183494,No,No,Yes,172,work,Yes
 482174,26,183506,No,No,Yes,115,community,No
 482182,50,183513,No,No,Yes,115,work,No
 482190,63,183519,No,No,Yes,104,community,Yes
@@ -65243,6 +65360,7 @@ patient_id,age,house_id,in_school,is_teacher,in_work,day_symptom_onset,infec_set
 483240,47,184340,Yes,No,No,111,school,No
 483273,80,184369,No,No,No,83,community,Yes
 483274,58,184370,No,No,Yes,145,community,Yes
+483285,49,184378,No,No,Yes,175,work,Yes
 483295,50,184386,No,No,Yes,126,work,No
 483299,21,184390,Yes,No,Yes,133,school,No
 483322,23,184410,Yes,No,No,94,school,Yes
@@ -65283,6 +65401,7 @@ patient_id,age,house_id,in_school,is_teacher,in_work,day_symptom_onset,infec_set
 483726,73,184740,No,No,No,123,house,No
 483756,37,184762,No,No,Yes,129,work,No
 483758,45,184764,No,No,Yes,96,work,No
+483771,40,184776,No,No,Yes,179,work,Yes
 483832,55,184829,Yes,No,No,121,school,No
 483838,37,184834,Yes,No,No,115,school,No
 483840,21,184836,No,No,Yes,118,work,No
@@ -65479,6 +65598,7 @@ patient_id,age,house_id,in_school,is_teacher,in_work,day_symptom_onset,infec_set
 486094,42,186639,Yes,Yes,No,103,school,No
 486101,39,186645,No,No,Yes,106,work,No
 486109,61,186650,No,No,Yes,104,work,No
+486114,22,186654,No,No,Yes,178,work,No
 486123,26,186659,Yes,No,No,79,school,Yes
 486127,61,186663,Yes,No,No,148,school,No
 486133,51,186668,No,No,Yes,106,community,No
@@ -65518,7 +65638,7 @@ patient_id,age,house_id,in_school,is_teacher,in_work,day_symptom_onset,infec_set
 486617,61,187070,No,No,Yes,70,house,No
 486632,57,187082,No,No,Yes,132,work,Yes
 486674,61,187120,No,No,Yes,64,work,No
-486685,79,187130,No,No,Yes,174,work,Yes
+486685,79,187130,No,No,Yes,174,work,No
 486700,44,187144,No,No,Yes,116,community,Yes
 486713,22,187154,Yes,No,Yes,87,school,No
 486738,23,187170,Yes,No,No,106,school,Yes
@@ -65538,6 +65658,7 @@ patient_id,age,house_id,in_school,is_teacher,in_work,day_symptom_onset,infec_set
 486938,78,187331,No,No,No,98,house,Yes
 486953,63,187341,No,No,Yes,138,work,Yes
 486966,53,187351,No,No,Yes,100,community,No
+487002,21,187382,Yes,No,No,179,community,No
 487007,53,187386,Yes,Yes,No,109,school,Yes
 487064,21,187439,Yes,No,No,112,school,No
 487073,55,187445,No,No,Yes,132,house,No
@@ -65907,6 +66028,7 @@ patient_id,age,house_id,in_school,is_teacher,in_work,day_symptom_onset,infec_set
 491307,49,190868,No,No,Yes,104,community,No
 491312,62,190872,No,No,Yes,157,work,No
 491316,45,190876,Yes,Yes,No,75,school,No
+491333,21,190892,No,No,Yes,177,work,No
 491335,44,190894,No,No,Yes,146,community,Yes
 491345,17,190904,Yes,No,No,91,school,No
 491351,46,190908,No,No,Yes,89,work,No
@@ -66086,6 +66208,7 @@ patient_id,age,house_id,in_school,is_teacher,in_work,day_symptom_onset,infec_set
 493273,54,192447,Yes,Yes,No,98,school,Yes
 493283,49,192456,No,No,Yes,148,work,Yes
 493305,61,192473,No,No,Yes,32,work,Yes
+493312,41,192480,No,No,Yes,178,work,No
 493321,22,192487,No,No,Yes,67,house,No
 493322,23,192487,No,No,Yes,64,work,No
 493324,24,192487,No,No,No,116,house,No
@@ -66471,6 +66594,7 @@ patient_id,age,house_id,in_school,is_teacher,in_work,day_symptom_onset,infec_set
 497880,5,196189,Yes,No,No,122,school,No
 497883,87,196192,No,No,No,142,house,Yes
 497884,17,196192,Yes,No,No,139,school,No
+497892,46,196200,No,No,Yes,179,house,Yes
 497900,57,196207,No,No,Yes,129,work,Yes
 497914,4,196213,No,No,No,131,house,No
 497956,41,196248,No,No,Yes,132,work,No
@@ -66663,11 +66787,14 @@ patient_id,age,house_id,in_school,is_teacher,in_work,day_symptom_onset,infec_set
 500157,4,198040,Yes,No,No,104,school,No
 500158,56,198041,No,No,Yes,106,house,No
 500171,45,198050,No,No,Yes,146,work,Yes
+500179,69,198056,No,No,Yes,179,work,No
 500180,74,198057,No,No,No,112,house,Yes
 500230,79,198093,No,No,Yes,98,work,No
 500235,82,198098,No,No,Yes,115,work,Yes
 500243,38,198105,No,No,Yes,94,community,Yes
+500274,39,198126,No,No,Yes,176,work,No
 500275,39,198127,No,No,No,128,house,No
+500279,68,198130,No,No,No,176,community,Yes
 500297,37,198145,Yes,No,No,106,school,No
 500315,81,198157,No,No,Yes,117,community,No
 500346,46,198182,No,No,Yes,148,work,No
@@ -66675,6 +66802,7 @@ patient_id,age,house_id,in_school,is_teacher,in_work,day_symptom_onset,infec_set
 500354,26,198187,No,No,Yes,143,work,No
 500355,84,198188,No,No,Yes,79,work,No
 500357,57,198190,No,No,Yes,121,work,No
+500368,58,198201,No,No,Yes,178,work,No
 500375,58,198207,No,No,Yes,86,community,Yes
 500378,65,198210,No,No,Yes,138,community,Yes
 500380,65,198212,No,No,No,138,house,Yes
@@ -66832,6 +66960,7 @@ patient_id,age,house_id,in_school,is_teacher,in_work,day_symptom_onset,infec_set
 502202,54,199685,Yes,Yes,No,105,school,No
 502208,30,199689,No,No,Yes,96,work,No
 502234,5,199709,Yes,No,No,100,school,No
+502236,65,199711,No,No,No,178,house,No
 502249,73,199723,No,No,No,131,community,No
 502254,56,199728,No,No,Yes,92,work,No
 502256,40,199730,Yes,Yes,No,128,school,No
