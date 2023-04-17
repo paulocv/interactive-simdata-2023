@@ -1,8 +1,8 @@
 # Simulation situation report
 
-* Elapsed days: 98
+* Elapsed days: 105
 
-* Symptomatic infections: 24042 (4.78%)
+* Symptomatic infections: 31566 (6.28%)
 
-* Total hospitalizations: 4568 (0.91%)
+* Total hospitalizations: 6011 (1.20%)
 
